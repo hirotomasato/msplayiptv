@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-06-15 20:31:58 UTC
-# Total Channels: 278
+# Generated: 2026-06-16 20:17:15 UTC
+# Total Channels: 279
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== NEWS (278 channels) ======
+# ====== NEWS (279 channels) ======
 
 #EXTINF:-1 tvg-name="#Riccanza – Pluto TV" tvg-logo="https://i.imgur.com/oBpcWEm.png" group-title="VOD Italy",#Riccanza – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626baa721c279b00072cbedd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -19,6 +19,9 @@ http://hz1.teleport.cc/HLS/HD.m3u8
 
 #EXTINF:-1 tvg-name="24 Kanal" tvg-logo="https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg" tvg-id="24Kanal.ua" tvg-chno="2" tvg-country="UA" group-title="Ukraine",24 Kanal
 http://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="360 Новости" tvg-logo="https://i.imgur.com/YXDeX8q.png" tvg-id="360News.ru" tvg-country="RU" group-title="Russia",360 Новости
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="7 Región de Murcia Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/La_7_logo.svg/150px-La_7_logo.svg.png" tvg-id="La7.es" tvg-chno="17" tvg-country="ES" group-title="Spain",7 Región de Murcia Ⓢ
 https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3u8
@@ -82,6 +85,9 @@ https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Aragón TV Ⓢ" tvg-logo="https://i.imgur.com/8H3Q07b.png" tvg-id="AragonTV.es" tvg-chno="9" tvg-country="ES" group-title="Spain",Aragón TV Ⓢ
 https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8
+
+#EXTINF:-1 tvg-name="Arise News" tvg-logo="https://i.imgur.com/B5IXKIb.png" tvg-id="AriseNews.uk" tvg-chno="262" tvg-country="GB" group-title="UK",Arise News
+https://liveedge-arisenews.visioncdn.com/live-hls/arisenews/arisenews/arisenews_web/master.m3u8
 
 #EXTINF:-1 tvg-name="Aristanis SuperTv" tvg-logo="https://i.imgur.com/v8PlAJO.png" tvg-country="IT" group-title="Italy",Aristanis SuperTv
 https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
@@ -401,9 +407,6 @@ https://ztnr.rtve.es/ztnr/5468585.m3u8
 #EXTINF:-1 tvg-name="La7" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-id="La7.it" tvg-chno="7" tvg-country="IT" group-title="Italy",La7
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 
-#EXTINF:-1 tvg-name="LaC News 24" tvg-logo="https://i.imgur.com/02vCECa.png" tvg-country="IT" group-title="Italy",LaC News 24
-https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Le sorelle mcleod – Pluto TV" tvg-logo="https://i.imgur.com/P310ryf.png" group-title="VOD Italy",Le sorelle mcleod – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60a2837f8154ab0007c4dcdf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -442,9 +445,6 @@ https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Newstalk" tvg-logo="" tvg-chno="6" tvg-country="IE" group-title="Ireland",Newstalk
 https://stream.audioxi.com/NT
-
-#EXTINF:-1 tvg-name="Nopola News" tvg-logo="https://i.imgur.com/gOj8J6O.png" tvg-id="NopolaNews.fi" tvg-country="FI" group-title="Finland",Nopola News
-https://virta2.nopolanews.fi:8443/live/smil:Stream1.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="När-TV Ⓢ" tvg-logo="https://i.imgur.com/Ht5yePq.png" tvg-id="NarTV.fi" tvg-country="FI" group-title="Finland",När-TV Ⓢ
 https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
@@ -583,6 +583,9 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTP Madeira Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/RTP_Madeira_2016.png" tvg-id="RTPMadeira.pt" tvg-chno="5" tvg-country="PT" group-title="Portugal",RTP Madeira Ⓢ
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTP Mundo" tvg-logo="https://i.imgur.com/mJ3gyqx.png" tvg-id="RTPInternacional.pt" tvg-chno="9" tvg-country="PT" group-title="Portugal",RTP Mundo
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Rtp Tv" tvg-logo="https://i.imgur.com/I1hYI0C.png" tvg-country="IT" group-title="Italy",Rtp Tv
 http://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
