@@ -17,7 +17,7 @@
 If you want to update immediately, visit the [Actions](https://github.com/januaropik3/msplayiptv/actions) page and click "Run workflow"
 
 **No maintenance required!** The system handles everything automatically.img.shields.io/badge/Channels-6,159-brightgreen)
-![Updated](https://img.shields.io/badge/Updated-2026-07-04-blue)
+![Updated](https://img.shields.io/badge/Updated-2026-07-05-blue)
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![Format](https://img.shields.io/badge/Format-M3U-orange)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
@@ -59,9 +59,20 @@ Simply copy any URL above and paste it into your IPTV player:
 | 📺 Total Channels | 944 |
 | 🏷️ Categories | 8 |
 | 🌍 Sources | 1 |
-| 🕐 Last Updated | 2026-07-04 18:10:05 |
+| 🕐 Last Updated | 2026-07-05 18:13:00 |
 
 ### 📁 Categories
+
+| Category | Channels |
+|----------|----------|
+| Documentary | 1 |
+| Entertainment | 2 |
+| General | 543 |
+| Kids | 9 |
+| Movies | 4 |
+| Music | 61 |
+| News | 285 |
+| Sports | 39 |### 📁 Categories
 
 | Category | Channels |
 |----------|----------|
