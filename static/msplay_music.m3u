@@ -1,30 +1,21 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-07-06 19:03:18 UTC
-# Total Channels: 58
+# Generated: 2026-07-07 19:09:27 UTC
+# Total Channels: 51
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MUSIC (58 channels) ======
-
-#EXTINF:-1 tvg-name=":24" tvg-logo="https://i.imgur.com/sdSsFU0.png" tvg-id="24.sk" tvg-chno="3" tvg-country="SK" group-title="Slovakia",:24
-https://sktv.plainrock127.xyz/get.php?x=STV24
-
-#EXTINF:-1 tvg-name=":Dvojka" tvg-logo="https://i.imgur.com/Ksi25UD.png" tvg-id="Dvojka.sk" tvg-chno="2" tvg-country="SK" group-title="Slovakia",:Dvojka
-https://sktv.plainrock127.xyz/get.php?x=STV2
-
-#EXTINF:-1 tvg-name=":Jednotka" tvg-logo="https://i.imgur.com/T7EWAe7.png" tvg-id="Jednotka.sk" tvg-chno="1" tvg-country="SK" group-title="Slovakia",:Jednotka
-https://sktv.plainrock127.xyz/get.php?x=STV1
-
-#EXTINF:-1 tvg-name=":O" tvg-logo="https://i.imgur.com/Nf5gEDc.png" tvg-chno="5" tvg-country="SK" group-title="Slovakia",:O
-https://sktv.plainrock127.xyz/get.php?x=STV-O
+# ====== MUSIC (51 channels) ======
 
 #EXTINF:-1 tvg-name="All the K-Pop Ⓨ" tvg-logo="https://i.imgur.com/tBbTTAx.png" tvg-id="AlltheKPop.kr" tvg-chno="30" tvg-country="KR" group-title="Korea",All the K-Pop Ⓨ
 https://www.youtube.com/c/ALLTHEKPOP/live
 
 #EXTINF:-1 tvg-name="Camera dei Deputati Ⓢ" tvg-logo="https://i.imgur.com/fqGn1k9.png" tvg-id="CameradeiDeputati.it" tvg-chno="90" tvg-country="IT" group-title="Italy",Camera dei Deputati Ⓢ
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canale 10" tvg-logo="https://i.imgur.com/KuQcjYV.png" tvg-country="IT" group-title="Italy",Canale 10
+https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Classic Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Classichits2023.jpg" tvg-id="classichits.ie" tvg-chno="8" tvg-country="IE" group-title="Ireland",Classic Hits
 https://stream.audioxi.com/CLASSIC
@@ -67,9 +58,6 @@ http://media.boni-records.com/index.m3u8
 
 #EXTINF:-1 tvg-name="Now Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" tvg-id="NowRock.uk" tvg-chno="363" tvg-country="GB" group-title="UK",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="NR SR" tvg-logo="https://i.imgur.com/sPDiS5q.png" tvg-id="TVNRSR.sk" tvg-chno="7" tvg-country="SK" group-title="Slovakia",NR SR
-https://sktv.plainrock127.xyz/get.php?x=NR_SR
 
 #EXTINF:-1 tvg-name="Onda Web Radio" tvg-logo="https://i.imgur.com/3hTvrC8.jpg" tvg-country="IT" group-title="Italy",Onda Web Radio
 http://178.33.224.197:1935/ondaradioweb/ondaradioweb/playlist.m3u8
@@ -143,7 +131,7 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-name="RDS Social TV" tvg-logo="https://i.imgur.com/TY6FhqI.png" tvg-id="RDSSocialTV.it" tvg-chno="265" tvg-country="IT" group-title="Italy",RDS Social TV
 https://stream.rdstv.radio/index.m3u8
 
-#EXTINF:-1 tvg-name="Retro Music Television Ⓢ" tvg-logo="https://i.imgur.com/a6S2Yo4.png" tvg-id="RetroMusicTV.cz" tvg-chno="24" tvg-country="CZ" group-title="Czech Republic",Retro Music Television Ⓢ
+#EXTINF:-1 tvg-name="Retro Music TV Ⓢ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png" tvg-id="RetroMusicTV.cz" tvg-chno="35" tvg-country="CZ" group-title="Czech Republic",Retro Music TV Ⓢ
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Rock TV" tvg-logo="https://i.imgur.com/Y9miDQo.png" tvg-id="RockTV.mk" tvg-chno="6" tvg-country="MK" group-title="North Macedonia",Rock TV
@@ -151,9 +139,6 @@ https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 
 #EXTINF:-1 tvg-name="Sundom TV Ⓨ" tvg-logo="https://i.imgur.com/WgwR7nJ.png" tvg-id="SundomTV.fi" tvg-country="FI" group-title="Finland",Sundom TV Ⓨ
 https://www.youtube.com/@SundomTV/live
-
-#EXTINF:-1 tvg-name="TA3 Ⓢ" tvg-logo="https://i.imgur.com/kPFBxc9.png" tvg-id="TA3.sk" tvg-chno="14" tvg-country="SK" group-title="Slovakia",TA3 Ⓢ
-https://sktv.plainrock127.xyz/get.php?x=TA3
 
 #EXTINF:-1 tvg-name="Tele Radio Pace 1" tvg-logo="https://i.imgur.com/ORkkXM8.png" tvg-country="IT" group-title="Italy",Tele Radio Pace 1
 https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
@@ -170,14 +155,8 @@ https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc2626
 #EXTINF:-1 tvg-name="TeleRadioStereo Ⓣ" tvg-logo="https://i.imgur.com/eRNgqnA.png" tvg-country="IT" group-title="Italy",TeleRadioStereo Ⓣ
 https://www.twitch.tv/teleradiostereo
 
-#EXTINF:-1 tvg-name="TN Live" tvg-logo="https://i.imgur.com/9P7ZyFu.png" tvg-id="" tvg-chno="25" tvg-country="CZ" group-title="Czech Republic",TN Live
-https://sktv.plainrock127.xyz/get.php?x=NovaTNLive
-
-#EXTINF:-1 tvg-name="TV Nova Ⓢ" tvg-logo="https://i.imgur.com/77ztmd9.png" tvg-id="tvnova.cz" tvg-chno="27" tvg-country="CZ" group-title="Czech Republic",TV Nova Ⓢ
-https://sktv.plainrock127.xyz/get.php?x=Nova
-
-#EXTINF:-1 tvg-name="Tv Yes" tvg-logo="https://i.imgur.com/1wsO8U7.png" tvg-country="IT" group-title="Italy",Tv Yes
-https://stream1.aswifi.it/radioyes/live/index.m3u8
+#EXTINF:-1 tvg-name="TRL Tele Radio Leo" tvg-logo="https://i.imgur.com/qAagkJT.png" tvg-country="IT" group-title="Italy",TRL Tele Radio Leo
+https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Virgin Radio TV Ⓖ" tvg-logo="https://i.imgur.com/7Im3HI1.png" tvg-id="VirginRadioTV.it" tvg-chno="68" tvg-country="IT" group-title="Italy",Virgin Radio TV Ⓖ
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
