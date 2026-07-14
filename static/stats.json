@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-07-13T18:49:45.376981+00:00",
-  "total_channels": 934,
+  "generated_at": "2026-07-14T18:12:25.448723+00:00",
+  "total_channels": 971,
   "categories": {
-    "General": 545,
-    "News": 288,
-    "Kids": 8,
-    "Movies": 3,
+    "General": 573,
+    "News": 287,
+    "Movies": 8,
+    "Kids": 9,
     "Sports": 38,
-    "Music": 49,
-    "Documentary": 1,
+    "Music": 52,
+    "Documentary": 2,
     "Entertainment": 2
   },
   "sources": [
