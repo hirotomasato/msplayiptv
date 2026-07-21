@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-07-20 19:00:41 UTC
-# Total Channels: 52
+# Generated: 2026-07-21 18:21:42 UTC
+# Total Channels: 50
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MUSIC (52 channels) ======
+# ====== MUSIC (50 channels) ======
 
 #EXTINF:-1 tvg-name="All the K-Pop Ⓨ" tvg-logo="https://i.imgur.com/tBbTTAx.png" tvg-id="AlltheKPop.kr" tvg-chno="30" tvg-country="KR" group-title="Korea",All the K-Pop Ⓨ
 https://www.youtube.com/c/ALLTHEKPOP/live
@@ -58,9 +58,6 @@ http://media.boni-records.com/index.m3u8
 
 #EXTINF:-1 tvg-name="Now Rock" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/89/NOW_Rock_logo.png" tvg-id="NowRock.uk" tvg-chno="363" tvg-country="GB" group-title="UK",Now Rock
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Onda Web Radio" tvg-logo="https://i.imgur.com/3hTvrC8.jpg" tvg-country="IT" group-title="Italy",Onda Web Radio
-http://178.33.224.197:1935/ondaradioweb/ondaradioweb/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Oxygen Music" tvg-logo="" tvg-id="" tvg-chno="3" tvg-country="HU" group-title="Hungary",Oxygen Music
 https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
@@ -136,9 +133,6 @@ https://stream.rdstv.radio/index.m3u8
 
 #EXTINF:-1 tvg-name="Retro Music TV Ⓢ" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/retro-cz.png" tvg-id="RetroMusicTV.cz" tvg-chno="35" tvg-country="CZ" group-title="Czech Republic",Retro Music TV Ⓢ
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Rock TV" tvg-logo="https://i.imgur.com/Y9miDQo.png" tvg-id="RockTV.mk" tvg-chno="6" tvg-country="MK" group-title="North Macedonia",Rock TV
-https://stream.nasatv.com.mk/rocktv/hls/rocktv_live.m3u8
 
 #EXTINF:-1 tvg-name="Sundom TV Ⓨ" tvg-logo="https://i.imgur.com/WgwR7nJ.png" tvg-id="SundomTV.fi" tvg-country="FI" group-title="Finland",Sundom TV Ⓨ
 https://www.youtube.com/@SundomTV/live
