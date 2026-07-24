@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-07-23 18:19:41 UTC
-# Total Channels: 51
+# Generated: 2026-07-24 18:25:59 UTC
+# Total Channels: 50
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MUSIC (51 channels) ======
+# ====== MUSIC (50 channels) ======
 
 #EXTINF:-1 tvg-name="All the K-Pop Ⓨ" tvg-logo="https://i.imgur.com/tBbTTAx.png" tvg-id="AlltheKPop.kr" tvg-chno="30" tvg-country="KR" group-title="Korea",All the K-Pop Ⓨ
 https://www.youtube.com/c/ALLTHEKPOP/live
@@ -97,9 +97,6 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-name="Radio Norba Tv" tvg-logo="https://i.imgur.com/qftBPM9.png" tvg-id="RadionorbaTV.it" tvg-country="IT" group-title="Italy",Radio Norba Tv
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-name="Radio Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Nova-web1-228x150.jpg" tvg-id="www.nova.ie" tvg-chno="4" tvg-country="IE" group-title="Ireland",Radio Nova
-https://stream.audioxi.com/NOVA
 
 #EXTINF:-1 tvg-name="Radio Piter Pan Tv" tvg-logo="https://uaznao.com/wp-content/uploads/2023/03/radiopiterpan.png" tvg-country="IT" group-title="Italy",Radio Piter Pan Tv
 https://tvd-piter.fluid.stream/RadioPiterpanTV/livestream/chunklist_w1866496033.m3u8
