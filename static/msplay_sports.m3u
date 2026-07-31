@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-07-30 18:25:17 UTC
-# Total Channels: 35
+# Generated: 2026-07-31 18:27:05 UTC
+# Total Channels: 38
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== SPORTS (35 channels) ======
+# ====== SPORTS (38 channels) ======
 
 #EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya.sa" tvg-chno="4" tvg-country="SA" group-title="Saudi Arabia",Al Ekhbariya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
@@ -71,6 +71,9 @@ https://www.youtube.com/watch?v=I8dnZoF1nOE
 #EXTINF:-1 tvg-name="Radio Immagine Tv" tvg-logo="https://i.imgur.com/iQlXRAB.png" tvg-country="IT" group-title="Italy",Radio Immagine Tv
 https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8
 
+#EXTINF:-1 tvg-name="Rai Sport Ⓖ" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-id="RaiSport.it" tvg-chno="58" tvg-country="IT" group-title="Italy",Rai Sport Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
+
 #EXTINF:-1 tvg-name="Rete 8 Sport" tvg-logo="https://i.imgur.com/uUAjWlF.png" tvg-country="IT" group-title="Italy",Rete 8 Sport
 https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
 
@@ -112,3 +115,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c3b106d
 
 #EXTINF:-1 tvg-name="XSport Ⓢ" tvg-logo="https://i.imgur.com/CHDcfrT.png" tvg-id="XSport.ua" tvg-chno="23" tvg-country="UA" group-title="Ukraine",XSport Ⓢ
 http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
+
+#EXTINF:-1 tvg-name="ČT sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" tvg-id="CTSport.cz" tvg-chno="4" tvg-country="CZ" group-title="Czech Republic",ČT sport
+https://sktv.mxnticek.eu/new/stream.php?ch=CTsport
+
+#EXTINF:-1 tvg-name="ČT sport Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" tvg-id="" tvg-chno="7" tvg-country="CZ" group-title="Czech Republic",ČT sport Plus
+https://sktv.mxnticek.eu/new/stream.php?ch=%C4%8CT%20sport%20Plus
