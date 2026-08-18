@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-08-17 17:34:43 UTC
-# Total Channels: 349
+# Generated: 2026-08-18 17:34:45 UTC
+# Total Channels: 380
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== NEWS (349 channels) ======
+# ====== NEWS (380 channels) ======
 
 #EXTINF:-1 tvg-name="#Riccanza – Pluto TV" tvg-logo="https://i.imgur.com/oBpcWEm.png" group-title="VOD Italy",#Riccanza – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626baa721c279b00072cbedd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -43,6 +43,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d86f519358a00072
 
 #EXTINF:-1 tvg-name="A2 CNN Albania" tvg-logo="https://i.imgur.com/TgO3Lzi.png" tvg-id="A2CNN.al" tvg-country="AL" group-title="Albania",A2 CNN Albania
 https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/df/ABC_News_Channel.svg/640px-ABC_News_Channel.svg.png" tvg-id="ABCNews.au" tvg-chno="5" tvg-country="AU" group-title="Australia",ABC News
+https://c.mjh.nz/abc-news.m3u8
 
 #EXTINF:-1 tvg-name="ABC News" tvg-logo="https://i.imgur.com/7sJLzKi.png" tvg-id="ABCNews.us" tvg-chno="4" tvg-country="US" group-title="USA",ABC News
 https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
@@ -82,6 +85,9 @@ https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Alfa" tvg-logo="https://upload.wikimedia.org/wikipedia/fi/9/93/IRR-TV-1.png" tvg-id="IRRTV.fi" tvg-chno="17" tvg-country="FI" group-title="Finland",Alfa Ⓢ
 https://irrtv2.digitacdn.net/live/ott/irrtv/playlist.m3u8?organizationId=229401409&suiteItemId=230439940
+
+#EXTINF:-1 tvg-name="Andorra TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/Logo_Andorra_Televisi%C3%B3.png" tvg-id="AndorraTV.ad" tvg-chno="1" tvg-country="AD" group-title="Andorra",Andorra TV
+https://livesg1.rtva.hiway.media/11a6d6f4-ee13-47c7-9c27-7313cf5424e2/manifest.m3u8
 
 #EXTINF:-1 tvg-name="Andromeda – Pluto TV" tvg-logo="https://i.imgur.com/2HFhwX9.png" group-title="VOD Italy",Andromeda – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60802d37ee238e0007c94e64/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -127,6 +133,9 @@ https://str.yodacdn.net/azertv/index.m3u8
 
 #EXTINF:-1 tvg-name="BBC Asian Network" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcasiannet-epg.png" tvg-id="BBCRadioAsianNetwork.uk" tvg-chno="10" tvg-country="GB" group-title="UK",BBC Asian Network
 https://lsn.lv/bbcradio.m3u8?station=bbc_asian_network&bitrate=320000
+
+#EXTINF:-1 tvg-name="BBC Drama" tvg-logo="https://i.imgur.com/hY1M4hL.jpg" tvg-chno="4163" group-title="VOD Italy",BBC Drama
+https://amg00793-amg00793c41-rakuten-it-5445.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="BBC Drama – Pluto TV" tvg-logo="https://i.imgur.com/CrAqXHJ.png" group-title="VOD Italy",BBC Drama – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fa5ab5062e0007dcf97d/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -182,6 +191,9 @@ https://cdn4.skygo.mn/live/disk1/BloombergMon/HLSv3-FTA/BloombergMon.m3u8
 #EXTINF:-1 tvg-name="Bloomberg TV+" tvg-logo="https://i.imgur.com/xGlToly.png" tvg-id="BloombergTVPlus.us" tvg-chno="102" group-title="Business",Bloomberg TV+
 https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
+#EXTINF:-1 tvg-name="Canal RTVD 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/CERTV_4_2015.png" tvg-id="Canal4RD.do" tvg-chno="4" tvg-country="DO" group-title="Dominican Republic",Canal RTVD 4
+https://cdn.protvradiostream.com/canal4rd-1/ngrp:canal4rd-1_all/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Car Chase – Pluto TV" tvg-logo="https://i.imgur.com/F1jXkhK.png" group-title="VOD Italy",Car Chase – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65a939fad77d450008863835/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -224,6 +236,9 @@ https://news.cgtn.com/resource/live/russian/cgtn-r.m3u8
 #EXTINF:-1 tvg-name="CGtv" tvg-logo="https://i.imgur.com/6rsLtY7.png" tvg-chno="4972" group-title="VOD Italy",CGtv
 https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Channel News Asia" tvg-logo="https://i.imgur.com/xWglicB.png" tvg-id="CNAInternational.sg" tvg-chno="18" group-title="News",Channel News Asia Ⓨ
+https://www.youtube.com/channel/UC83jt4dlz1Gjl58fzQrrKZg/live
+
 #EXTINF:-1 tvg-name="Christmas – Pluto TV" tvg-logo="https://i.imgur.com/tQ8lN30.png" group-title="VOD Italy",Christmas – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612e05b885183d0007958101/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -248,6 +263,9 @@ https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlis
 #EXTINF:-1 tvg-name="CNBC Indonesia" tvg-logo="https://imgur.com/ie2zSTY" tvg-id="CNBCIndonesia.am" tvg-chno="1" tvg-country="ID" group-title="Indonesia",CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8
 
+#EXTINF:-1 tvg-name="CNBC Indonesia" tvg-logo="https://i.imgur.com/bUfeG7Y.png" tvg-id="CNBCIndonesia.id" tvg-chno="107" group-title="Business",CNBC Indonesia
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="CNBC MGL" tvg-logo="" tvg-id="" tvg-chno="17" tvg-country="MN" group-title="Mongolia",CNBC MGL
 https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
 
@@ -259,6 +277,9 @@ https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_35
 
 #EXTINF:-1 tvg-name="CNN Indonesia" tvg-logo="https://imgur.com/MpxTMiP" tvg-id="CNNIndonesia.am" tvg-chno="2" tvg-country="ID" group-title="Indonesia",CNN Indonesia
 http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CNN Portugal" tvg-logo="https://i.imgur.com/NYH39xs.png" tvg-id="CNNPortugal.pt" tvg-chno="13" tvg-country="PT" group-title="Portugal",CNN Portugal
+https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
 
 #EXTINF:-1 tvg-name="CNN Prima News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cnn-prima-news-cz.png" tvg-id="CNNPrimaNews.cz" tvg-chno="16" tvg-country="CZ" group-title="Czech Republic",CNN Prima News
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaNews
@@ -305,6 +326,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7f8db2
 #EXTINF:-1 tvg-name="Documentari – Pluto TV" tvg-logo="https://i.imgur.com/0jYrODf.png" tvg-id="PlutoTVDocumentariItaly.it" group-title="VOD Italy",Documentari – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa8a5709d6b0007b132fe/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-name="Dublin's Q102" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e7/Dublins_Q102_Logo.png" tvg-id="q102.ie" tvg-chno="7" tvg-country="IE" group-title="Ireland",Dublin's Q102
+https://onic.dublin.live.stream.broadcasting.news/stream-q102
+
 #EXTINF:-1 tvg-name="Due Fantagenitori – Pluto TV" tvg-logo="https://i.imgur.com/HOvLgGK.png" group-title="VOD Italy",Due Fantagenitori – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62b57a6752a0060008bc65cd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -347,8 +371,17 @@ https://www.youtube.com/euronewses/live
 #EXTINF:-1 tvg-name="Euronews Français" tvg-logo="https://i.imgur.com/3Lr5iAj.png" tvg-id="EuronewsFrench.fr" tvg-chno="31" tvg-country="FR" group-title="France",Euronews Français Ⓨ
 https://www.youtube.com/euronewsfr/live
 
+#EXTINF:-1 tvg-name="Euronews Georgia" tvg-logo="https://i.imgur.com/VNJ4soR.png" tvg-id="EuroNewsGeorgia.ge" tvg-chno="999" tvg-country="GE" group-title="Georgia",Euronews Georgia Ⓖ
+http://nue01-edge01.itdc.ge/euronewsgeorgia/mpegts
+
+#EXTINF:-1 tvg-name="Euronews Greek" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/640px-Euronews_2016_logo.svg.png" tvg-id="EuronewsGreek.fr" tvg-chno="30" tvg-country="GR" group-title="Greece",Euronews Greek
+https://www.youtube.com/euronewsGreek/live
+
 #EXTINF:-1 tvg-name="Euronews Hungarian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/Euronews._2016_logo.png" tvg-id="EuronewsHungarian.fr" tvg-chno="1" tvg-country="HU" group-title="Hungary",Euronews Hungarian Ⓨ
 https://www.youtube.com/channel/UC4Ct8gIf9f0n4mdyGsFiZRA/live
+
+#EXTINF:-1 tvg-name="Euronews in diretta" tvg-logo="https://i.imgur.com/DUUxsO7.jpeg" tvg-id="EuronewsItalian.fr" tvg-chno="4003" group-title="VOD Italy",Euronews in diretta
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-name="Euronews Italian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsItalian.fr" tvg-chno="59" tvg-country="IT" group-title="Italy",Euronews Italian Ⓨ
 https://www.youtube.com/user/euronewsit/live
@@ -358,9 +391,6 @@ https://www.youtube.com/euronewsro/live
 
 #EXTINF:-1 tvg-name="Euronews по-русски" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Euronews_2022.svg/640px-Euronews_2022.svg.png" tvg-id="EuronewsRussian.fr" tvg-chno="25" tvg-country="RU" group-title="Russia",Euronews по-русски Ⓨ
 https://www.youtube.com/euronewsru/live
-
-#EXTINF:-1 tvg-name="Euronews – Pluto TV" tvg-logo="https://i.imgur.com/Zpf2ykM.png" group-title="VOD Italy",Euronews – Pluto TV
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61b86ea479a4390007c6d5fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-name="Ex on the beach – Pluto TV" tvg-logo="https://i.imgur.com/IONkdyk.png" group-title="VOD Italy",Ex on the beach – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60940ebad67fd900072382db/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -398,14 +428,23 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612ce23f5
 #EXTINF:-1 tvg-name="Flicks of Fury" tvg-logo="https://i.imgur.com/yhyzBfb.png" group-title="VOD Movies (EN)",Flicks of Fury
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
+#EXTINF:-1 tvg-name="FM104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/FM104_logo_tile.png" tvg-id="fm104.ie" tvg-chno="3" tvg-country="IE" group-title="Ireland",FM104
+https://onic.dublin.live.stream.broadcasting.news/stream-fm104
+
 #EXTINF:-1 tvg-name="Forensic Files – Pluto TV" tvg-logo="https://i.imgur.com/hF5maH7.png" group-title="VOD Italy",Forensic Files – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ec5cf50f73a800081310a5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-name="FOX Live Now" tvg-logo="https://graph.facebook.com/livenowfox/picture?width=200&height=200" tvg-id="FOXLiveNow.us" tvg-chno="5" tvg-country="US" group-title="USA",FOX Live Now
 https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Fox Weather" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Fox_Weather_logo.svg/500px-Fox_Weather_logo.svg.png" tvg-id="FoxWeather.us" tvg-chno="202" group-title="Weather",Fox Weather
+https://247wlive.foxweather.com/stream/index.m3u8
+
 #EXTINF:-1 tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24French.fr" tvg-chno="28" tvg-country="FR" group-title="France",France 24 Ⓨ
 https://www.youtube.com/c/FRANCE24/live
+
+#EXTINF:-1 tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24English.fr" tvg-chno="205" tvg-country="GB" group-title="UK",France 24 Ⓨ
+https://www.youtube.com/c/france24english/live
 
 #EXTINF:-1 tvg-name="France 24" tvg-logo="https://i.imgur.com/61MSiq9.png" tvg-id="France24English.fr" tvg-chno="4" group-title="News",France 24 Ⓨ
 https://www.youtube.com/france24english/live
@@ -422,14 +461,26 @@ https://www.youtube.com/watch?v=ylYJSBUgaMA
 #EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/640px-GB_News_Logo.svg.png" tvg-id="GBNews.uk" tvg-chno="236" tvg-country="GB" group-title="UK",GB News
 https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8
 
+#EXTINF:-1 tvg-name="GB News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/500px-GB_News_Logo.svg.png" tvg-id="GBNews.uk" tvg-chno="38" group-title="News",GB News Ⓨ
+https://www.youtube.com/channel/UC0vn8ISa4LKMunLbzaXLnOQ/live
+
 #EXTINF:-1 tvg-name="Geordie Shore – Pluto TV" tvg-logo="https://i.imgur.com/y0fkHVi.png" group-title="VOD Italy",Geordie Shore – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/619263ee9541940007d20d60/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-name="Giovanni Paolo Tv" tvg-logo="https://i.imgur.com/GH5eJE6.png" tvg-country="IT" group-title="Italy",Giovanni Paolo Tv
 https://media2021.rtvweb.com/giovannipaolotv/web/chunklist_w663456797.m3u8
 
+#EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/IpfmG93.png" tvg-chno="19" tvg-country="CA" group-title="Canada",Global News
+https://jmp2.uk/plu-62cbef9ebb857100072fc187.m3u8
+
 #EXTINF:-1 tvg-name="Global News" tvg-logo="https://i.imgur.com/xk1QOhW.png" tvg-id="GlobalNews.ca" tvg-chno="33" group-title="News",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/.m3u8
+
+#EXTINF:-1 tvg-name="Global News Saskatoon" tvg-logo="https://i.imgur.com/IpfmG93.png" tvg-id="CFSKDT.ca" tvg-chno="27" tvg-country="CA" group-title="Canada",Global News Saskatoon
+https://jmp2.uk/plu-62cc00359cb58900088dc840.m3u8
+
+#EXTINF:-1 tvg-name="Global News Winnipeg" tvg-logo="https://i.imgur.com/IpfmG93.png" tvg-id="CKNDDT.ca" tvg-chno="29" tvg-country="CA" group-title="Canada",Global News Winnipeg
+https://jmp2.uk/plu-62cc0120880c890007191016.m3u8
 
 #EXTINF:-1 tvg-name="Horror – Pluto TV" tvg-logo="https://i.imgur.com/zhoHRSE.png" group-title="VOD Italy",Horror – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61c09e3ac210ed0007606620/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -444,7 +495,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61fbd3f07
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612375086abc84000738fc03/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://i.imgur.com/PeuBkaH.png" tvg-id="INews.iq" tvg-chno="10" tvg-country="IQ" group-title="Iraq",iNEWS
-https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
+https://live.i-news.tv/hls/stream.m3u8
 
 #EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" tvg-id="ISTVHD.br" tvg-chno="8" tvg-country="BR" group-title="Brazil",ISTV
 https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
@@ -452,11 +503,20 @@ https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
 #EXTINF:-1 tvg-name="Jersey Shore – Pluto TV" tvg-logo="https://i.imgur.com/HIlmQEy.png" group-title="VOD Italy",Jersey Shore – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb5767da71180008ace8fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-name="Joy News" tvg-logo="https://i.imgur.com/kGuMNmR.png" tvg-id="JoyNews.gh" tvg-chno="40" group-title="News",Joy News Ⓨ
+https://www.youtube.com/channel/UChd1DEecCRlxaa0-hvPACCw/live
+
 #EXTINF:-1 tvg-name="Just for laughs – Pluto TV" tvg-logo="https://i.imgur.com/VvEz0XX.png" group-title="VOD Italy",Just for laughs – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f48c95132a00075fd859/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-name="K-Pop – Pluto TV" tvg-logo="https://i.imgur.com/9Vp4rx2.png" group-title="VOD Italy",K-Pop – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60c8b75fb0a68400074b86fc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-name="Kanal Ri" tvg-logo="https://kanal-ri.hr/wp-content/uploads/2022/09/kanalRi_logo_v1.png" tvg-id="KanalRi.hr" tvg-chno="36" tvg-country="HR" group-title="Croatia",Kanal Ri
+https://live.kanal-ri.click/LiveApp/streams/B6HK3voDwNsRQoLm1124882102135504.m3u8
+
+#EXTINF:-1 tvg-name="Kecskemét TV" tvg-logo="https://kecskemetitv.hu/templates/kecskemetitv/img/ktv_logo.png" tvg-id="KecskemetiTV.hu" tvg-chno="12" tvg-country="HU" group-title="Hungary",Kecskemét TV
+http://rtmp1.40e.hu:8000/live/ktv.m3u8
 
 #EXTINF:-1 tvg-name="Kids Ukraine – Pluto TV" tvg-logo="https://i.imgur.com/MrIlypV.png" group-title="VOD Italy",Kids Ukraine – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/622a2d8da9d8210007d918c2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -509,6 +569,9 @@ https://stream-live.lrt.lt/lituanica/master.m3u8
 #EXTINF:-1 tvg-name="LRT Plius" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/LRT_Plius_Logo_2022.svg/500px-LRT_Plius_Logo_2022.svg.png" tvg-id="LRTPlius.lt" tvg-chno="2" tvg-country="LT" group-title="Lithuania",LRT Plius
 http://stream.mcquack.net/353/index.m3u8
 
+#EXTINF:-1 tvg-name="LRT TV" tvg-logo="https://i.imgur.com/FL2ZuGC.png" tvg-id="LRTTV.lt" tvg-chno="1" tvg-country="LT" group-title="Lithuania",LRT TV
+http://stream.mcquack.net/31/index.m3u8
+
 #EXTINF:-1 tvg-name="MacGyver – Pluto TV" tvg-logo="https://i.imgur.com/bz9IwWU.png" group-title="VOD Italy",MacGyver – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d4511358320007029cdf/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -533,11 +596,11 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/610a9ebe8
 #EXTINF:-1 tvg-name="NBC News" tvg-logo="https://i.imgur.com/v48mMRT.png" tvg-id="NBCNewsNow.us" tvg-chno="6" tvg-country="US" group-title="USA",NBC News
 https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
 
+#EXTINF:-1 tvg-name="NBC News NOW" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/nbc-news-now-uk.png" tvg-id="NBCNewsNOW.us" tvg-chno="9" group-title="News",NBC News NOW
+https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
+
 #EXTINF:-1 tvg-name="News 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/News_24_%28Albania%29.svg/1024px-News_24_%28Albania%29.svg.png" tvg-id="News24.al" tvg-country="AL" group-title="Albania",News 24 Ⓢ
 https://tv.balkanweb.com/news24/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="News Central" tvg-logo="https://i.imgur.com/1oSxhmp.png" tvg-id="NewsCentral.ng" tvg-chno="4" tvg-country="NG" group-title="Nigeria",News Central
-https://wf.newscentral.ng:8443/hls/stream.m3u8
 
 #EXTINF:-1 tvg-name="News18 India" tvg-logo="https://i.imgur.com/BR4BUAw.png" tvg-id="News18.com" tvg-chno="22" tvg-country="IN" group-title="India",News18 India Ⓨ
 https://www.youtube.com/@news18india/live
@@ -638,6 +701,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcb
 #EXTINF:-1 tvg-name="Pop" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Pop_UK_TV_Logo_%282015%29.svg/640px-Pop_UK_TV_Logo_%282015%29.svg.png" tvg-id="Pop.uk" tvg-chno="206" tvg-country="GB" group-title="UK",Pop Ⓢ
 https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Porto Canal" tvg-logo="https://i.imgur.com/wsyvP2H.png" tvg-id="PortoCanal.pt" tvg-chno="11" tvg-country="PT" group-title="Portugal",Porto Canal Ⓢ
+https://pull-live-156-1.global.ssl.fastly.net/pc5865dc25400thmb-ea6bf03b14fa318f7133/smil:pc1-jhrgyuoqe5865db-68tkgb14fa318f7133f03.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Pro TV" tvg-logo="https://i.imgur.com/aKAfKtW.png" tvg-id="ProTV.ro" tvg-chno="6" tvg-country="RO" group-title="Romania",Pro TV
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 
@@ -668,11 +734,17 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60801976f
 #EXTINF:-1 tvg-name="Reality – Pluto TV" tvg-logo="https://i.imgur.com/tPEOeTk.png" tvg-id="PlutoTVRealityItaly.it" group-title="VOD Italy",Reality – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61925f874b1ec000075e700a/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-name="Record News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Record_News_logo_2023.svg" tvg-id="RecordNews.br" tvg-chno="7" tvg-country="BR" group-title="Brazil",Record News
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
+
 #EXTINF:-1 tvg-name="Rejo TV" tvg-logo="https://www.lyngsat.com/logo/tv/rr/rejo-tv-so.png" tvg-country="SO" group-title="Somalia",Rejo TV Ⓨ
 https://www.youtube.com/channel/UCf_ntY4qKz0jFV2dRTWselQ/live
 
 #EXTINF:-1 tvg-name="Renegade – Pluto TV" tvg-logo="https://i.imgur.com/Qsd9wuS.png" group-title="VOD Italy",Renegade – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/634926e4b51d2d00077819a2/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-name="Reuters" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" tvg-id="ReutersTV.us" tvg-chno="10" group-title="News",Reuters
+https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Ridiculousness – Pluto TV" tvg-logo="https://i.imgur.com/Yyj3Dm6.png" group-title="VOD Italy",Ridiculousness – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/61fbd721e5b49e00079bfedc/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -764,6 +836,9 @@ https://webtvstream.bhtelecom.ba/rts2.m3u8
 #EXTINF:-1 tvg-name="RTS 3" tvg-logo="https://i.imgur.com/gxuGB4J.png" tvg-id="RTS3.rs" tvg-chno="3" tvg-country="RS" group-title="Serbia",RTS 3
 http://185.81.240.65:15000/udp/233.233.233.36:12000
 
+#EXTINF:-1 tvg-name="RTS Svet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rts-svet.png" tvg-id="RTSSvet.rs" tvg-country="RS" group-title="Serbia",RTS Svet
+https://webtvstream.bhtelecom.ba/rts_svet.m3u8
+
 #EXTINF:-1 tvg-name="Rttr" tvg-logo="https://i.imgur.com/z7xMArA.png" tvg-country="IT" group-title="Italy",Rttr
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 
@@ -775,6 +850,9 @@ https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr
 
 #EXTINF:-1 tvg-name="RTV BN" tvg-logo="https://i.imgur.com/DUBvfWb.png" tvg-id="BNTV.ba" tvg-chno="6" tvg-country="BA" group-title="Bosnia and Herzegovina",RTV BN
 https://stream2.rtvbn.tv:8080/live_1935/bnstream/index.m3u8
+
+#EXTINF:-1 tvg-name="RTV Drenthe" tvg-logo="https://i.imgur.com/GaGqM4z.png" tvg-id="RTVDrenthe.nl" tvg-chno="3" tvg-country="NL" group-title="Netherlands",RTV Drenthe
+https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 
 #EXTINF:-1 tvg-name="RTV HB" tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Logo_of_TV_Herceg-Bosne.png" tvg-id="RTVHB.ba" tvg-chno="5" tvg-country="BA" group-title="Bosnia and Herzegovina",RTV HB Ⓢ
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
@@ -812,6 +890,9 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-name="SABC News" tvg-logo="https://i.imgur.com/H9q3Q9d.png" tvg-id="SABCNews.gh" tvg-chno="41" group-title="News",SABC News
 https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/chunklist_b250000_t64MjQwcA==.m3u8
 
+#EXTINF:-1 tvg-name="San Marino Rtv" tvg-logo="https://i.imgur.com/lJpOlLv.png" tvg-id="SanMarinoRTV.sm" tvg-chno="73" tvg-country="SM" group-title="San Marino",San Marino Rtv
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch01/smil:ch-01.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-name="Sanctuary – Pluto TV" tvg-logo="https://i.imgur.com/iYyijeJ.png" group-title="VOD Italy",Sanctuary – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb57d6c111bc0008fe2658/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -832,6 +913,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6245d3792
 
 #EXTINF:-1 tvg-name="Silverbird News 24" tvg-logo="https://i.imgur.com/ssEAjq5.jpeg" tvg-id="SilverbirdNews24.ng" tvg-chno="6" tvg-country="NG" group-title="Nigeria",Silverbird News 24
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_029/Stream/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sky News (UK)" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" tvg-id="SkyNewsInternational.uk" tvg-chno="1" group-title="News",Sky News (UK) Ⓨ
+https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
 
 #EXTINF:-1 tvg-name="Sky News Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" tvg-id="SkyNewsArabia.ae" tvg-chno="14" tvg-country="AE" group-title="United Arab Emirates",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
@@ -891,7 +975,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f6f83
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6304ed62410a4c00083c0291/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-name="SuperTV" tvg-logo="https://i.imgur.com/XYWgd3E.png" tvg-id="SuperTV.ba" tvg-chno="12" tvg-country="BA" group-title="Bosnia and Herzegovina",SuperTV
-https://mirtv.club/live/mirtv/index.m3u8
+https://live.tv-m.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-name="Supertv" tvg-logo="https://i.imgur.com/7gUZcEh.png" tvg-country="IT" group-title="Italy",Supertv
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
@@ -926,6 +1010,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/646600718
 #EXTINF:-1 tvg-name="The pet collective – Pluto TV" tvg-logo="https://i.imgur.com/034PrSz.png" group-title="VOD Italy",The pet collective – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60801317a0ccef00072aaf75/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-name="Tipik" tvg-logo="https://i.imgur.com/PVbVj8o.png" tvg-id="Tipik.be" tvg-chno="3" tvg-country="BE" group-title="Belgium",Tipik
+http://193.111.198.85:8589/stream/mstv/rtbftipiklive26/master.m3u8?p=967e33767f592e1aaf3d4019f38f380bf784e113b193d89c412d047059d6300d&u=Oleg
+
 #EXTINF:-1 tvg-name="Top Gear – Pluto TV" tvg-logo="https://i.imgur.com/ZZo7DXQ.png" group-title="VOD Italy",Top Gear – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64c109a4798def0008a6e03e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -937,9 +1024,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65253f988
 
 #EXTINF:-1 tvg-name="TRT" tvg-logo="https://i.imgur.com/g0jPOcC.png" tvg-id="trttv.gr" tvg-chno="83" tvg-country="GR" group-title="Greece",TRT
 https://av.hellasnet.tv/rst/trt/index.m3u8
-
-#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.imgur.com/j786OLG.png" tvg-id="TRT1.tr" tvg-chno="1" tvg-country="TR" group-title="Turkey",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TRT Arabi" tvg-logo="https://i.imgur.com/yyhWOZs.png" tvg-id="TRTArabi.tr" tvg-chno="11" tvg-country="TR" group-title="Turkey",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
@@ -974,14 +1058,14 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/500px-TRT_World.svg.png" tvg-id="TRTWorld.tr" tvg-chno="215" tvg-country="GB" group-title="UK",TRT World
 https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" tvg-id="TRTWorld.tr" tvg-chno="21" group-title="News",TRT World
-https://ythls.armelin.one/channel/UC7fWeaHhqgM4Ry-RMpM2YYw.m3u8
+#EXTINF:-1 tvg-name="TRT World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" tvg-id="TRTWorld.tr" tvg-chno="21" group-title="News",TRT World Ⓨ
+https://www.youtube.com/channel/UC7fWeaHhqgM4Ry-RMpM2YYw/live
 
 #EXTINF:-1 tvg-name="TRT Çocuk" tvg-logo="https://i.imgur.com/QLFmD6d.png" tvg-id="TRTCocuk.tr" tvg-chno="6" tvg-country="TR" group-title="Turkey",TRT Çocuk
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TTV News (台視新聞台)" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3f/TTV_News_Channel_with_HD_2016.png" tvg-id="TTVNews.tw" tvg-chno="16" tvg-country="TW" group-title="Taiwan",TTV News (台視新聞台) Ⓨ
-https://www.youtube.com/watch?v=xL0ch83RAK8
+https://www.youtube.com/@TTV_NEWS/live
 
 #EXTINF:-1 tvg-name="TV Monaco" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/TVMonaco_2023.svg/320px-TVMonaco_2023.svg.png" tvg-id="TVMonaco.mc" tvg-chno="1" tvg-country="MC" group-title="Monaco",TV Monaco
 https://production-fast-mcrtv.content.okast.tv/channels/2116dc08-1959-465d-857f-3619daefb66b/b702b2b9-aebd-436c-be69-2118f56f3d86/master.m3u8
@@ -1007,6 +1091,9 @@ https://tvr-tgmures.lg.mncdn.com/tvrtgmures/smil:tvrtgmures.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Ultimate Classic Wrestling – Pluto TV" tvg-logo="https://i.imgur.com/QVN5qv3.png" group-title="VOD Italy",Ultimate Classic Wrestling – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/652516fb7971630008a58e74/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-name="USA Today" tvg-logo="https://i.imgur.com/37K0AZX.png" tvg-id="USATODAY.us" tvg-chno="29" group-title="News",USA Today
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-plex/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Vergina" tvg-logo="https://i.imgur.com/cpF6wvR.png" tvg-id="verginatv.gr" tvg-chno="57" tvg-country="GR" group-title="Greece",Vergina
 https://verginanews.gr:8443/hls_live/stream1.m3u8
 
@@ -1031,6 +1118,12 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/636a4173e
 #EXTINF:-1 tvg-name="Viaggi – Pluto TV" tvg-logo="https://i.imgur.com/3GJg0uy.png" group-title="VOD Italy",Viaggi – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63c923944207be0007fd0887/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-name="Vizion Plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Vizion_Plus.svg/500px-Vizion_Plus.svg.png" tvg-id="VizionPlus.al" tvg-country="AL" group-title="Albania",Vizion Plus
+https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
+
+#EXTINF:-1 tvg-name="Wazobia Max TV Port Harcourt" tvg-logo="https://i.imgur.com/sEnLR0B.jpeg" tvg-id="WazobiaMaxTVPortHarcourt.ng" tvg-chno="12" tvg-country="NG" group-title="Nigeria",Wazobia Max TV Port Harcourt
+https://wazobia.live:8333/channel/wmaxph.m3u8
+
 #EXTINF:-1 tvg-name="Western – Pluto TV" tvg-logo="https://i.imgur.com/6vmgQBl.png" group-title="VOD Italy",Western – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62e7fb67478a5b0007e6c50c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -1041,7 +1134,7 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608016e44
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb82e24e83e70008ab735f/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
 #EXTINF:-1 tvg-name="ČT art" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-art-cz.png" tvg-id="CTart.cz" tvg-chno="6" tvg-country="CZ" group-title="Czech Republic",ČT art
-https://sktv.mxnticek.eu/new/stream.php?ch=CTart
+http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Šport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-sport-sk.png" tvg-id="RTVSSport.sk" tvg-chno="16" tvg-country="SK" group-title="Slovakia",Šport
 https://sktv.mxnticek.eu/new/stream.php?ch=%C5%A0port

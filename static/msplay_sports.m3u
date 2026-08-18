@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-08-17 17:34:43 UTC
-# Total Channels: 53
+# Generated: 2026-08-18 17:34:45 UTC
+# Total Channels: 61
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== SPORTS (53 channels) ======
+# ====== SPORTS (61 channels) ======
 
 #EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya.sa" tvg-chno="4" tvg-country="SA" group-title="Saudi Arabia",Al Ekhbariya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
@@ -29,6 +29,15 @@ https://d2ymuyhevki1a1.cloudfront.net/wct-ddd2992e-86fc-4611-a491-7f392259e9ba/c
 #EXTINF:-1 tvg-name="Cittaceleste Tv" tvg-logo="https://i.imgur.com/9RVriNK.jpeg" tvg-country="IT" group-title="Italy",Cittaceleste Tv
 https://sportitaliaamd.akamaized.net/live/Cittaceleste/hls/A990687F506536598442FC5CD12C97CB78873FBA/index.m3u8
 
+#EXTINF:-1 tvg-name="Commedia – Rakuten TV" tvg-logo="https://i.imgur.com/EKKXdIU.jpg" tvg-chno="4004" group-title="VOD Italy",Commedia – Rakuten TV
+https://b8bc6c4b9be64bd6aeb3b92aa8521ed4.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6184/master.m3u8
+
+#EXTINF:-1 tvg-name="Drammatico – Rakuten TV" tvg-logo="https://i.imgur.com/Nx3JzZK.jpg" tvg-chno="4998" group-title="VOD Italy",Drammatico – Rakuten TV
+https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
+
+#EXTINF:-1 tvg-name="Duna World / M4+ Sport" tvg-logo="https://i.imgur.com/DciAdFF.png" tvg-id="DunaWorld.hu" tvg-chno="2" tvg-country="HU" group-title="Hungary",Duna World / M4+ Sport
+http://88.212.15.19/live/duna_world_hun/index.m3u8
+
 #EXTINF:-1 tvg-name="ERT Sports 1" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ERTSports1.gr" tvg-chno="6" tvg-country="GR" group-title="Greece",ERT Sports 1
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports1/default/index.mpd
 
@@ -43,6 +52,15 @@ https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports4/default/index.mpd
 
 #EXTINF:-1 tvg-name="euronews" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/international/euro-news-int.png" tvg-id="Euronews.es" tvg-chno="22" tvg-country="ES" group-title="Spain",euronews
 https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8
+
+#EXTINF:-1 tvg-name="Family – Rakuten TV" tvg-logo="https://i.imgur.com/BCC123A.jpg" tvg-chno="4966" group-title="VOD Italy",Family – Rakuten TV
+https://3315fc3e7276420f895e19cf807dbee1.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6215/master.m3u8
+
+#EXTINF:-1 tvg-name="Film d'azione – Rakuten TV" tvg-logo="https://i.imgur.com/KDmDQM6.jpg" tvg-chno="4999" group-title="VOD Italy",Film d'azione – Rakuten TV
+https://87f2e2e5e7624e3bad85da1ca2ed31a7.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6067/master.m3u8
+
+#EXTINF:-1 tvg-name="Film Top – Rakuten TV" tvg-logo="https://i.imgur.com/OfD9hM9.jpeg" tvg-chno="4996" group-title="VOD Italy",Film Top – Rakuten TV
+https://d4a4999341764c67a67e9ec9eb3790ab.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5984/master.m3u8
 
 #EXTINF:-1 tvg-name="GO-TV Channel" tvg-logo="https://i.imgur.com/xgjrAAn.png" tvg-id="GOTVCanale163.it" tvg-country="IT" group-title="Italy",GO-TV Channel
 https://6zklxkbbdw9b-hls-live.mariatvcdn.it/msmotor/2f759512164fc6fe4acbed6a5648993a.sdp/playlist.m3u8
@@ -59,14 +77,14 @@ https://streamer.radiotaajuus.fi/memfs/47f113bf-04ea-493b-a9d4-52945fd9db31.m3u8
 #EXTINF:-1 tvg-name="MBC 4" tvg-logo="https://i.imgur.com/BcXASJp.png" tvg-id="MBC4.ae" tvg-chno="6" tvg-country="AE" group-title="United Arab Emirates",MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 
-#EXTINF:-1 tvg-name="MBC Masr 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/MBC_Masr_Logo.png" tvg-id="MBCMasr1.eg" tvg-chno="9" tvg-country="EG" group-title="Egypt",MBC Masr 1
-https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
-
 #EXTINF:-1 tvg-name="MNB Sport" tvg-logo="" tvg-id="MNBSport.mn" tvg-chno="3" tvg-country="MN" group-title="Mongolia",MNB Sport
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
 
 #EXTINF:-1 tvg-name="Monster Jam – Pluto TV" tvg-logo="https://i.imgur.com/jxGhINd.png" group-title="VOD Italy",Monster Jam – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65bce7f1d77d450008b3a430/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
+
+#EXTINF:-1 tvg-name="MTV Lebanon" tvg-logo="" tvg-id="MTV.lb" tvg-chno="1" group-title="Lebanon",MTV Lebanon
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mtv-lebanon/b8ebb2a5affb812f1541712adde10e26/index.m3u8
 
 #EXTINF:-1 tvg-name="M»Net Sport" tvg-logo="https://i.imgur.com/q3DV2gP.png" tvg-id="sport.mnet.mk" tvg-chno="8" tvg-country="MK" group-title="North Macedonia",M»Net Sport
 http://ares.mnet.mk/hls/mnet-sport.m3u8
@@ -89,9 +107,6 @@ http://stream.mcquack.net/72/index.m3u8
 #EXTINF:-1 tvg-name="Radio Immagine Tv" tvg-logo="https://i.imgur.com/iQlXRAB.png" tvg-country="IT" group-title="Italy",Radio Immagine Tv
 https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8
 
-#EXTINF:-1 tvg-name="Rai Sport" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-id="RaiSport.it" tvg-chno="58" tvg-country="IT" group-title="Italy",Rai Sport Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=rainet/4.0.5
-
 #EXTINF:-1 tvg-name="Rete 8 Sport" tvg-logo="https://i.imgur.com/uUAjWlF.png" tvg-country="IT" group-title="Italy",Rete 8 Sport
 https://64b16f23efbee.streamlock.net/rete8sport/rete8sport/playlist.m3u8
 
@@ -101,8 +116,14 @@ https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b
 #EXTINF:-1 tvg-name="Rev'n" tvg-logo="https://i.imgur.com/VUhqVgG.png" tvg-id="RevnTV.us" tvg-chno="6" tvg-country="US" group-title="USA",Rev'n
 https://lukentvlive.vgcdn.net/v1/master/cef183924f24adfa3d5d7601c3a17769082c0c2b/Revn/index.m3u8
 
+#EXTINF:-1 tvg-name="Romance – Rakuten TV" tvg-logo="https://i.imgur.com/TiXrzJZ.jpeg" tvg-chno="4985" group-title="VOD Italy",Romance – Rakuten TV
+https://3e0f2491d8634a58967529df3f424c0d.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6193/master.m3u8
+
 #EXTINF:-1 tvg-name="Sahan TV" tvg-logo="https://i.imgur.com/fOvHhX2.png" tvg-id="SahanTV.so" tvg-country="SO" group-title="Somalia",Sahan TV Ⓨ
 https://www.youtube.com/channel/UCGn3y_geehf1ZgAlwtbNt2w/live
+
+#EXTINF:-1 tvg-name="San Marino Rtv Sport" tvg-logo="https://i.imgur.com/PGm944g.png" tvg-id="SanMarinoRTVSport.sm" tvg-chno="93" tvg-country="SM" group-title="San Marino",San Marino Rtv Sport
+https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 
 #EXTINF:-1 tvg-name="SBS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/500px-SBS_Korea_Logo_%28Word_Only%29.svg.png" tvg-id="SBSTV.kr" tvg-chno="7" tvg-country="KR" group-title="Korea",SBS TV
 https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8
@@ -146,6 +167,9 @@ https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.
 #EXTINF:-1 tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/640px-TF1_%282013%29.svg.png" tvg-id="TF1.fr" tvg-chno="1" tvg-country="FR" group-title="France",TF1
 http://151.80.18.177:86/TF1_HD/index.m3u8
 
+#EXTINF:-1 tvg-name="TG4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1024px-TG4_logo.svg.png" tvg-id="TG4.ie" tvg-chno="4" tvg-country="IE" group-title="Ireland",TG4
+https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
+
 #EXTINF:-1 tvg-name="True Crime" tvg-logo="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-UK.png" tvg-id="TrueCrime.uk" tvg-chno="67" tvg-country="GB" group-title="UK",True Crime Ⓢ
 https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
 
@@ -162,7 +186,7 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b2
 http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
 
 #EXTINF:-1 tvg-name="ČT sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" tvg-id="CTSport.cz" tvg-chno="4" tvg-country="CZ" group-title="Czech Republic",ČT sport
-https://sktv.mxnticek.eu/new/stream.php?ch=CTsport
+http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ČT sport Plus" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" tvg-id="" tvg-chno="7" tvg-country="CZ" group-title="Czech Republic",ČT sport Plus
 https://sktv.mxnticek.eu/new/stream.php?ch=%C4%8CT%20sport%20Plus

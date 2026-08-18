@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-08-17 17:34:43 UTC
-# Total Channels: 59
+# Generated: 2026-08-18 17:34:45 UTC
+# Total Channels: 60
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MUSIC (59 channels) ======
+# ====== MUSIC (60 channels) ======
 
 #EXTINF:-1 tvg-name="Aguacate TV" tvg-logo="https://intervenhosting.net/imagenes/aguacatetv.jpg" tvg-id="AguacateTV.ve" tvg-chno="12" tvg-country="VE" group-title="Venezuela",Aguacate TV
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
@@ -122,6 +122,9 @@ https://live02-seg.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="Radio Norba Tv" tvg-logo="https://i.imgur.com/qftBPM9.png" tvg-id="RadionorbaTV.it" tvg-country="IT" group-title="Italy",Radio Norba Tv
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-name="Radio Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a1/Nova-web1-228x150.jpg" tvg-id="www.nova.ie" tvg-chno="4" tvg-country="IE" group-title="Ireland",Radio Nova
+https://playerservices.streamtheworld.com/api/livestream-redirect/RADIONOVA.mp3
+
 #EXTINF:-1 tvg-name="Radio Piter Pan Tv" tvg-logo="https://uaznao.com/wp-content/uploads/2023/03/radiopiterpan.png" tvg-country="IT" group-title="Italy",Radio Piter Pan Tv
 https://tvd-piter.fluid.stream/RadioPiterpanTV/livestream/chunklist_w1866496033.m3u8
 
@@ -142,9 +145,6 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/pl
 
 #EXTINF:-1 tvg-name="RadioItaliaTV" tvg-logo="https://i.imgur.com/4VCEJuJ.png" tvg-id="RadioItaliaTV.it" tvg-chno="70" tvg-country="IT" group-title="Italy",RadioItaliaTV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
-
-#EXTINF:-1 tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://i.imgur.com/nVBet0h.png" tvg-id="RaiRadio2Visual.it" tvg-chno="202" tvg-country="IT" group-title="Italy",Rai Radio 2 Visual Radio
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
 
 #EXTINF:-1 tvg-name="RDS Social TV" tvg-logo="https://i.imgur.com/TY6FhqI.png" tvg-id="RDSSocialTV.it" tvg-chno="265" tvg-country="IT" group-title="Italy",RDS Social TV
 https://stream.rdstv.radio/index.m3u8
@@ -181,6 +181,9 @@ http://194.163.157.137:8080/hls/radiomulhouse.m3u8
 
 #EXTINF:-1 tvg-name="Tv Yes" tvg-logo="https://i.imgur.com/1wsO8U7.png" tvg-country="IT" group-title="Italy",Tv Yes
 https://stream1.aswifi.it/radioyes/live/index.m3u8
+
+#EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="https://i.imgur.com/DPqMpQC.png" tvg-chno="4710" group-title="VOD Italy",Vevo Pop
+https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Virgin Radio TV" tvg-logo="https://i.imgur.com/7Im3HI1.png" tvg-id="VirginRadioTV.it" tvg-chno="68" tvg-country="IT" group-title="Italy",Virgin Radio TV Ⓖ
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
