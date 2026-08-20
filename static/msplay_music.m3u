@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-08-19 17:33:38 UTC
-# Total Channels: 60
+# Generated: 2026-08-20 17:37:23 UTC
+# Total Channels: 61
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MUSIC (60 channels) ======
+# ====== MUSIC (61 channels) ======
 
 #EXTINF:-1 tvg-name="Aguacate TV" tvg-logo="https://intervenhosting.net/imagenes/aguacatetv.jpg" tvg-id="AguacateTV.ve" tvg-chno="12" tvg-country="VE" group-title="Venezuela",Aguacate TV
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
@@ -19,6 +19,9 @@ https://cdn4.skygo.mn/live/disk1/Popcorn/HLSv3-FTA/Popcorn.m3u8
 
 #EXTINF:-1 tvg-name="Camera dei Deputati" tvg-logo="https://i.imgur.com/fqGn1k9.png" tvg-id="CameradeiDeputati.it" tvg-chno="90" tvg-country="IT" group-title="Italy",Camera dei Deputati Ⓢ
 https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canale 10" tvg-logo="https://i.imgur.com/KuQcjYV.png" tvg-country="IT" group-title="Italy",Canale 10
+https://nrvideo1.newradio.it:1936/desxcerbht/desxcerbht/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Classic Hits" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/31/Classichits2023.jpg" tvg-id="classichits.ie" tvg-chno="8" tvg-country="IE" group-title="Ireland",Classic Hits
 https://stream.audioxi.com/CLASSIC
