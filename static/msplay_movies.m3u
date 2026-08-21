@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-08-20 17:37:23 UTC
-# Total Channels: 19
+# Generated: 2026-08-21 17:36:44 UTC
+# Total Channels: 14
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MOVIES (19 channels) ======
+# ====== MOVIES (14 channels) ======
 
 #EXTINF:-1 tvg-name="13 Prime" tvg-logo="https://i.imgur.com/YwDFNxs.png" tvg-id="13P.cl" tvg-chno="13" tvg-country="CL" group-title="Chile",13 Prime
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
@@ -32,18 +32,6 @@ http://stream.mcquack.net/322/index.m3u8
 #EXTINF:-1 tvg-name="Great! Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Great%21_Movies_logo_2021.svg/640px-Great%21_Movies_logo_2021.svg.png" tvg-id="GreatMovies.uk" tvg-chno="34" tvg-country="GB" group-title="UK",Great! Movies Ⓢ
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
 
-#EXTINF:-1 tvg-name="iFilm" tvg-logo="https://i.imgur.com/4Z9L1AW.png" tvg-id="iFilmPersian.ir" tvg-chno="18" tvg-country="IR" group-title="Iran",iFilm
-https://live.presstv.co.uk/hls/ifilmfa.m3u8
-
-#EXTINF:-1 tvg-name="iFilm 2" tvg-logo="https://i.imgur.com/WZrGsFb.png" tvg-id="iFilm2.ir" tvg-chno="4" tvg-country="IR" group-title="Iran",iFilm 2 Ⓢ
-https://live.presstv.co.uk/hls/ifilm2.m3u8
-
-#EXTINF:-1 tvg-name="iFilm Arabic" tvg-logo="https://i.imgur.com/D3cXTpJ.png" tvg-id="iFilmArabic.ir" tvg-chno="5" tvg-country="IR" group-title="Iran",iFilm Arabic Ⓢ
-https://live.presstv.co.uk/hls/ifilmar.m3u8
-
-#EXTINF:-1 tvg-name="iFilm English" tvg-logo="https://i.imgur.com/RdC0DQk.png" tvg-id="iFilmEnglish.ir" tvg-chno="6" tvg-country="IR" group-title="Iran",iFilm English Ⓢ
-https://live.presstv.co.uk/hls/ifilmen.m3u8
-
 #EXTINF:-1 tvg-name="JOJ Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/joj-cinema-cz.png" tvg-id="JojCinema.cz" tvg-chno="25" tvg-country="CZ" group-title="Czech Republic",JOJ Cinema
 https://sktv.mxnticek.eu/new/stream.php?ch=JOJ%20Cinema
 
@@ -61,6 +49,3 @@ https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema
 
 #EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/500px-Paramount_Network.svg.png" tvg-id="ParamountNetwork.es" tvg-chno="20" tvg-country="ES" group-title="Spain",Paramount Network
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
-
-#EXTINF:-1 tvg-name="Rai Movie" tvg-logo="https://i.imgur.com/RKpO8CE.png" tvg-id="RaiMovie.it" tvg-chno="24" tvg-country="IT" group-title="Italy",Rai Movie Ⓖ
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
