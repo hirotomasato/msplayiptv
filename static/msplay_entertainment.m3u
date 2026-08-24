@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-08-23 17:27:53 UTC
-# Total Channels: 4
+# Generated: 2026-08-24 17:38:03 UTC
+# Total Channels: 3
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== ENTERTAINMENT (4 channels) ======
+# ====== ENTERTAINMENT (3 channels) ======
 
 #EXTINF:-1 tvg-name="FZTV-3 Lifestyle Channel 生活频道" tvg-logo="https://i.imgur.com/jt7CWDT.png" tvg-id="FZTV3.cn" tvg-chno="27" tvg-country="CN" group-title="China",FZTV-3 Lifestyle Channel 生活频道
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
@@ -16,6 +16,3 @@ https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 
 #EXTINF:-1 tvg-name="México Travel TV" tvg-logo="https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200" tvg-id="MexicoTravelTV.mx" tvg-chno="12" tvg-country="MX" group-title="Mexico",México Travel TV
 https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Travel TV" tvg-logo="https://i.imgur.com/aXAUyLN.png" tvg-id="TravelTV.it" tvg-chno="61" tvg-country="IT" group-title="Italy",Travel TV
-https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8

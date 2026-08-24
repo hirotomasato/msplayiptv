@@ -1,7 +1,7 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-08-23 17:27:53 UTC
+# Generated: 2026-08-24 17:38:03 UTC
 # Total Channels: 19
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
@@ -26,7 +26,7 @@ https://sktv.mxnticek.eu/new/stream.php?ch=CS%20Film
 #EXTINF:-1 tvg-name="Drybar Comedy" tvg-logo="https://i.imgur.com/EldlmTp.png" tvg-id="DryBarComedy.us" tvg-chno="2" tvg-country="US" group-title="USA",Drybar Comedy
 https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Enter-Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Enter-FilmUA_%282013%29.png/819px-Enter-FilmUA_%282013%29.png" tvg-id="EnterFilm.ua" tvg-chno="24" tvg-country="UA" group-title="Ukraine",Enter-Film
+#EXTINF:-1 tvg-name="Enter-Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Enter-FilmUA_%282013%29.png/960px-Enter-FilmUA_%282013%29.png" tvg-id="EnterFilm.ua" tvg-chno="24" tvg-country="UA" group-title="Ukraine",Enter-Film
 http://stream.mcquack.net/322/index.m3u8
 
 #EXTINF:-1 tvg-name="Great! Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Great%21_Movies_logo_2021.svg/500px-Great%21_Movies_logo_2021.svg.png" tvg-id="GreatMovies.uk" tvg-chno="34" tvg-country="GB" group-title="UK",Great! Movies Ⓢ

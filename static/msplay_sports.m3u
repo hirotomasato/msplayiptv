@@ -1,7 +1,7 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-08-23 17:27:53 UTC
+# Generated: 2026-08-24 17:38:03 UTC
 # Total Channels: 62
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
@@ -167,10 +167,10 @@ http://dc.tbnbaltia.eu:8088/dvr/rewind-21600.m3u8
 #EXTINF:-1 tvg-name="Telecolor" tvg-logo="https://i.imgur.com/urUG78J.png" tvg-id="TelecolorLombardia.it" tvg-country="IT" group-title="Italy",Telecolor
 https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/7/77/TF1_%282013%29.svg/500px-TF1_%282013%29.svg.png" tvg-id="TF1.fr" tvg-chno="1" tvg-country="FR" group-title="France",TF1
+#EXTINF:-1 tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/500px-Logo_TF1_2013.svg.png" tvg-id="TF1.fr" tvg-chno="1" tvg-country="FR" group-title="France",TF1
 http://151.80.18.177:86/TF1_HD/index.m3u8
 
-#EXTINF:-1 tvg-name="TG4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/1024px-TG4_logo.svg.png" tvg-id="TG4.ie" tvg-chno="4" tvg-country="IE" group-title="Ireland",TG4
+#EXTINF:-1 tvg-name="TG4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/960px-TG4_logo.svg.png" tvg-id="TG4.ie" tvg-chno="4" tvg-country="IE" group-title="Ireland",TG4
 https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="True Crime" tvg-logo="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-UK.png" tvg-id="TrueCrime.uk" tvg-chno="67" tvg-country="GB" group-title="UK",True Crime Ⓢ

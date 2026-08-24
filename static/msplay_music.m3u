@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-08-23 17:27:53 UTC
-# Total Channels: 60
+# Generated: 2026-08-24 17:38:03 UTC
+# Total Channels: 62
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MUSIC (60 channels) ======
+# ====== MUSIC (62 channels) ======
 
 #EXTINF:-1 tvg-name="Aguacate TV" tvg-logo="https://intervenhosting.net/imagenes/aguacatetv.jpg" tvg-id="AguacateTV.ve" tvg-chno="12" tvg-country="VE" group-title="Venezuela",Aguacate TV
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
@@ -29,10 +29,10 @@ https://stream.audioxi.com/CLASSIC
 #EXTINF:-1 tvg-name="DELUXE MUSIC" tvg-logo="https://i.imgur.com/E65GQN9.png" tvg-id="DeluxeMusic.de" tvg-chno="6" tvg-country="DE" group-title="Germany",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-1 tvg-name="DELUXE MUSIC DANCE BY KONTOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/666px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png" tvg-id="DeluxeMusicDanceByKontor.de" tvg-chno="7" tvg-country="DE" group-title="Germany",DELUXE MUSIC DANCE BY KONTOR
+#EXTINF:-1 tvg-name="DELUXE MUSIC DANCE BY KONTOR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Deluxe_Dance_by_Kontor_Logo_2023.svg/500px-Deluxe_Dance_by_Kontor_Logo_2023.svg.png" tvg-id="DeluxeMusicDanceByKontor.de" tvg-chno="7" tvg-country="DE" group-title="Germany",DELUXE MUSIC DANCE BY KONTOR
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 
-#EXTINF:-1 tvg-name="DELUXE MUSIC RAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Deluxe_Rap_Logo_2023.svg/666px-Deluxe_Rap_Logo_2023.svg.png" tvg-id="DeLuxeMusicRap.de" tvg-chno="8" tvg-country="DE" group-title="Germany",DELUXE MUSIC RAP
+#EXTINF:-1 tvg-name="DELUXE MUSIC RAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Deluxe_Rap_Logo_2023.svg/500px-Deluxe_Rap_Logo_2023.svg.png" tvg-id="DeLuxeMusicRap.de" tvg-chno="8" tvg-country="DE" group-title="Germany",DELUXE MUSIC RAP
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 
 #EXTINF:-1 tvg-name="Giornale Radio Tv" tvg-logo="https://i.imgur.com/TMtvCLL.jpg" tvg-country="IT" group-title="Italy",Giornale Radio Tv
@@ -56,7 +56,7 @@ https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8
 #EXTINF:-1 tvg-name="MTV Ava" tvg-logo="https://i.imgur.com/rtyJVgB.png" tvg-id="AVA.fi" tvg-chno="13" tvg-country="FI" group-title="Finland",MTV Ava
 https://live-fi.tvkaista.net/ava/live.m3u8?src=freetv
 
-#EXTINF:-1 tvg-name="MTV Azerbaijan Ⓢ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/MTV_Az%C9%99rbaycan_%282022%29.png/622px-MTV_Az%C9%99rbaycan_%282022%29.png" tvg-id="MTVAzerbaijan.az" tvg-country="AZ" group-title="Azerbaijan",MTV Azerbaijan Ⓢ Ⓨ
+#EXTINF:-1 tvg-name="MTV Azerbaijan Ⓢ" tvg-logo="https://i.imgur.com/lSBMeBU.png" tvg-id="MTVAzerbaijan.az" tvg-country="AZ" group-title="Azerbaijan",MTV Azerbaijan Ⓢ Ⓨ
 https://www.youtube.com/@MTVAzerbaijan/live
 
 #EXTINF:-1 tvg-name="MTV Sub" tvg-logo="https://i.imgur.com/VRCuxQt.png" tvg-id="Sub.fi" tvg-chno="6" tvg-country="FI" group-title="Finland",MTV Sub
@@ -176,11 +176,17 @@ https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc2626
 #EXTINF:-1 tvg-name="TeleRadioStereo" tvg-logo="https://i.imgur.com/eRNgqnA.png" tvg-country="IT" group-title="Italy",TeleRadioStereo Ⓣ
 https://www.twitch.tv/teleradiostereo
 
+#EXTINF:-1 tvg-name="TRL Tele Radio Leo" tvg-logo="https://i.imgur.com/qAagkJT.png" tvg-country="IT" group-title="Italy",TRL Tele Radio Leo
+https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
+
 #EXTINF:-1 tvg-name="TV Alsace" tvg-logo="https://i.imgur.com/zaJDEOv.png" tvg-id="TVAlsace.fr" tvg-chno="-" tvg-country="FR" group-title="France",TV Alsace
 http://194.163.157.137:8080/hls/radioalsace.m3u8
 
 #EXTINF:-1 tvg-name="TV Mulhouse" tvg-logo="https://i.imgur.com/4esQG8H.png" tvg-id="TVMulhouse.fr" tvg-chno="-" tvg-country="FR" group-title="France",TV Mulhouse
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8
+
+#EXTINF:-1 tvg-name="Tv Yes" tvg-logo="https://i.imgur.com/1wsO8U7.png" tvg-country="IT" group-title="Italy",Tv Yes
+https://stream1.aswifi.it/radioyes/live/index.m3u8
 
 #EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="https://i.imgur.com/DPqMpQC.png" tvg-chno="4710" group-title="VOD Italy",Vevo Pop
 https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
