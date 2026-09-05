@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-09-04 19:24:31 UTC
-# Total Channels: 61
+# Generated: 2026-09-05 18:58:55 UTC
+# Total Channels: 60
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MUSIC (61 channels) ======
+# ====== MUSIC (60 channels) ======
 
 #EXTINF:-1 tvg-name="Aguacate TV" tvg-logo="https://intervenhosting.net/imagenes/aguacatetv.jpg" tvg-id="AguacateTV.ve" tvg-chno="12" tvg-country="VE" group-title="Venezuela",Aguacate TV
 https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
@@ -107,9 +107,6 @@ https://str48.fluid.stream/RadioIbizaTV/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio Italia Cina Tv" tvg-logo="https://i.imgur.com/QGkyrO3.png" tvg-country="IT" group-title="Italy",Radio Italia Cina Tv
 https://585b674743bbb.streamlock.net/9054/9054/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Radio Italia Trend" tvg-logo="https://i.imgur.com/ecpfn3e.png" tvg-id="RadioItaliaTrendTV.it" tvg-chno="4716" group-title="VOD Italy",Radio Italia Trend
-https://radioitalia-samsungitaly.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Radio KISS KISS TV" tvg-logo="https://i.imgur.com/UTStxDW.png" tvg-id="KissKissTV.it" tvg-chno="158" tvg-country="IT" group-title="Italy",Radio KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 
@@ -158,6 +155,9 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Sundom TV" tvg-logo="https://i.imgur.com/WgwR7nJ.png" tvg-id="SundomTV.fi" tvg-country="FI" group-title="Finland",Sundom TV Ⓨ
 https://www.youtube.com/@SundomTV/live
 
+#EXTINF:-1 tvg-name="Tele Radio Ercolano" tvg-logo="https://i.imgur.com/YPuoy8N.jpg" tvg-country="IT" group-title="Italy",Tele Radio Ercolano
+https://rst2.saiuzwebnetwork.it:8081/teleradioercolano/index.m3u8
+
 #EXTINF:-1 tvg-name="Tele Radio Pace 1" tvg-logo="https://i.imgur.com/ORkkXM8.png" tvg-country="IT" group-title="Italy",Tele Radio Pace 1
 https://jk3lz2bwlw79-hls-live.mariatvcdn.it/teleradiopace1/efcc8fc46cab26315ce3f5845d76008f.sdp/playlist.m3u8
 
@@ -172,9 +172,6 @@ https://j78dpr7nyq5r-hls-live.mariatvcdn.it/teleradiopace4/13d74f2cfe921bfbc2626
 
 #EXTINF:-1 tvg-name="TeleRadioStereo" tvg-logo="https://i.imgur.com/eRNgqnA.png" tvg-country="IT" group-title="Italy",TeleRadioStereo Ⓣ
 https://www.twitch.tv/teleradiostereo
-
-#EXTINF:-1 tvg-name="TRL Tele Radio Leo" tvg-logo="https://i.imgur.com/qAagkJT.png" tvg-country="IT" group-title="Italy",TRL Tele Radio Leo
-https://5db313b643fd8.streamlock.net/TRL/TRL/playlist.m3u8
 
 #EXTINF:-1 tvg-name="TV Alsace" tvg-logo="https://i.imgur.com/zaJDEOv.png" tvg-id="TVAlsace.fr" tvg-chno="-" tvg-country="FR" group-title="France",TV Alsace
 http://194.163.157.137:8080/hls/radioalsace.m3u8
