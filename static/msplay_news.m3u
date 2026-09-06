@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-09-05 18:58:55 UTC
-# Total Channels: 382
+# Generated: 2026-09-06 19:02:10 UTC
+# Total Channels: 378
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== NEWS (382 channels) ======
+# ====== NEWS (378 channels) ======
 
 #EXTINF:-1 tvg-name="#Riccanza – Pluto TV" tvg-logo="https://i.imgur.com/oBpcWEm.png" group-title="VOD Italy",#Riccanza – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626baa721c279b00072cbedd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -242,11 +242,17 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608aa7d83
 #EXTINF:-1 tvg-name="clan" tvg-logo="https://i.imgur.com/38xIfQ3.png" tvg-id="clan.es" tvg-chno="9" tvg-country="ES" group-title="Spain",clan
 https://rtvelivestream.rtve.es/rtvesec/clan/clan_main_dvr.m3u8
 
+#EXTINF:-1 tvg-name="Class CNBC" tvg-logo="https://i.imgur.com/oAiSU8O.png" tvg-id="ClassCNBC.it" tvg-chno="507" tvg-country="IT" group-title="Italy",Class CNBC Ⓖ
+https://amg14891-amg14891c5-amgplt0020.playout.now3.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Classic Movies" tvg-logo="https://i.imgur.com/feWPHep.png" group-title="VOD Movies (EN)",Classic Movies
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=106&deviceId=561c5b0dada51f8004c4d855&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-1 tvg-name="CNBC" tvg-logo="https://i.imgur.com/BTasyOy.png" tvg-id="CNBC.us" tvg-chno="2" tvg-country="US" group-title="USA",CNBC Ⓨ
 https://www.youtube.com/c/CNBC/live
+
+#EXTINF:-1 tvg-name="CNBC Europe" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1088.png" tvg-id="CNBCEurope.uk" tvg-chno="106" group-title="Business",CNBC Europe
+https://amg01079-nbcuuk-amg01079c1-samsung-es-1261.playouts.now.amagi.tv/playlist/amg01079-nbcuukfast-cnbcpe-samsunges/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CNBC MGL" tvg-logo="" tvg-id="" tvg-chno="17" tvg-country="MN" group-title="Mongolia",CNBC MGL
 https://cdn4.skygo.mn/live/disk1/CNBC/HLSv3-FTA/CNBC.m3u8
@@ -409,6 +415,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d5
 
 #EXTINF:-1 tvg-name="FM104" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/FM104_logo_tile.png" tvg-id="fm104.ie" tvg-chno="3" tvg-country="IE" group-title="Ireland",FM104
 https://onic.dublin.live.stream.broadcasting.news/stream-fm104
+
+#EXTINF:-1 tvg-name="FNNプライムオンライン" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/105_fnn.png" tvg-id="rch_108" tvg-chno="rch_108" tvg-country="JP" group-title="日本 / Japan",FNNプライムオンライン
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news4-cmaf-rakutenjp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Forensic Files – Pluto TV" tvg-logo="https://i.imgur.com/hF5maH7.png" group-title="VOD Italy",Forensic Files – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ec5cf50f73a800081310a5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -609,7 +618,7 @@ https://www.youtube.com/@News24thinkfirst/live
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 
 #EXTINF:-1 tvg-name="Newstalk" tvg-logo="" tvg-chno="6" tvg-country="IE" group-title="Ireland",Newstalk
-https://stream.audioxi.com/NT
+https://live-bauerie.sharp-stream.com/NT
 
 #EXTINF:-1 tvg-name="När-TV" tvg-logo="https://i.imgur.com/Ht5yePq.png" tvg-id="NarTV.fi" tvg-country="FI" group-title="Finland",När-TV Ⓢ
 https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
@@ -743,27 +752,6 @@ https://rtvelivestream.rtve.es/rtvesec/rne/rne_para_todos_main.m3u8
 #EXTINF:-1 tvg-name="Robot Wars by MECH+ – Pluto TV" tvg-logo="https://i.imgur.com/vGqha3k.png" group-title="VOD Italy",Robot Wars by MECH+ – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/651581ba6a84140008593586/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
-#EXTINF:-1 tvg-name="Rotana Ciip" tvg-logo="https://i.imgur.com/nhREk0o.png" tvg-id="RotanaClip.sa" tvg-chno="10" tvg-country="SA" group-title="Saudi Arabia",Rotana Ciip
-https://rotana.hibridcdn.net/rotananet/clip_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Rotana Cinema" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Rotana_Cinema_Egy.png" tvg-id="RotanaCinema.eg" tvg-chno="11" tvg-country="EG" group-title="Egypt",Rotana Cinema
-https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Rotana Cinema KSA" tvg-logo="https://i.imgur.com/pGgp38I.png" tvg-id="RotanaCinemaKSA.sa" tvg-chno="10" tvg-country="SA" group-title="Saudi Arabia",Rotana Cinema KSA
-https://rotana.hibridcdn.net/rotananet/cinema_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Rotana Comedy" tvg-logo="https://i.imgur.com/IlT8U6S.png" tvg-id="RotanaComedy.sa" tvg-chno="10" tvg-country="SA" group-title="Saudi Arabia",Rotana Comedy
-https://rotana.hibridcdn.net/rotananet/comedy_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Rotana Drama" tvg-logo="https://i.imgur.com/btnhPjZ.png" tvg-id="RotanaDrama.sa" tvg-chno="10" tvg-country="SA" group-title="Saudi Arabia",Rotana Drama
-https://rotana.hibridcdn.net/rotananet/drama_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Rotana Khalijia" tvg-logo="https://i.imgur.com/6HMluzv.png" tvg-id="RotanaKhalijia.sa" tvg-chno="10" tvg-country="SA" group-title="Saudi Arabia",Rotana Khalijia
-https://rotana.hibridcdn.net/rotananet/khaleejiya_net-7Y83PP5adWixDF93/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Rotana Music" tvg-logo="https://i.imgur.com/2zFQbQi.png" tvg-id="RotanaMusic.sa" tvg-chno="10" tvg-country="SA" group-title="Saudi Arabia",Rotana Music
-https://rotana.hibridcdn.net/rotananet/music_net-7Y83PP5adWixDF93/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RT Documentary English" tvg-logo="https://i.imgur.com/ZEi1Wgn.png" tvg-id="RTDoc.ru" group-title="Documentaries (EN)",RT Documentary English Ⓖ
 https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 
@@ -843,7 +831,7 @@ https://webtvstream.bhtelecom.ba/rts1.m3u8
 https://webtvstream.bhtelecom.ba/rts2.m3u8
 
 #EXTINF:-1 tvg-name="RTS 3" tvg-logo="https://i.imgur.com/gxuGB4J.png" tvg-id="RTS3.rs" tvg-chno="3" tvg-country="RS" group-title="Serbia",RTS 3
-http://185.81.240.65:15000/udp/233.233.233.36:12000
+https://webtvstream.bhtelecom.ba/rts_sat.m3u8
 
 #EXTINF:-1 tvg-name="RTS Svet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/Rts-svet.png" tvg-id="RTSSvet.rs" tvg-country="RS" group-title="Serbia",RTS Svet
 https://webtvstream.bhtelecom.ba/rts_svet.m3u8
@@ -1034,9 +1022,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65253f988
 #EXTINF:-1 tvg-name="TRT" tvg-logo="https://i.imgur.com/g0jPOcC.png" tvg-id="trttv.gr" tvg-chno="83" tvg-country="GR" group-title="Greece",TRT
 https://av.hellasnet.tv/rst/trt/index.m3u8
 
-#EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.imgur.com/j786OLG.png" tvg-id="TRT1.tr" tvg-chno="1" tvg-country="TR" group-title="Turkey",TRT 1
-https://tv-trt1.medya.trt.com.tr/master.m3u8
-
 #EXTINF:-1 tvg-name="TRT Arabi" tvg-logo="https://i.imgur.com/yyhWOZs.png" tvg-id="TRTArabi.tr" tvg-chno="11" tvg-country="TR" group-title="Turkey",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 
@@ -1153,3 +1138,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Якутия 24" tvg-logo="https://i.imgur.com/2BAQklm.png" tvg-id="Yakutiya24.ru" tvg-country="RU" group-title="Russia",Якутия 24
 https://live-saha.cdnvideo.ru/saha2/yak24rtmp_live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="日テレNEWS" tvg-logo="https://channel.rakuten.co.jp/service/img/logo/chlogo-with-number/104_ntvnews.png" tvg-id="rch_47" tvg-chno="rch_47" tvg-country="JP" group-title="日本 / Japan",日テレNEWS
+https://cdn-apne1.tsv2.amagi.tv/linear/amg01287-rakutentvjapan-news1hlscmaf-rakutenjp/playlist.m3u8
