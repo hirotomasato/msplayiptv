@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-09-20 19:27:42 UTC
-# Total Channels: 70
+# Generated: 2026-09-21 20:59:16 UTC
+# Total Channels: 68
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== SPORTS (70 channels) ======
+# ====== SPORTS (68 channels) ======
 
 #EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya.sa" tvg-chno="4" tvg-country="SA" group-title="Saudi Arabia",Al Ekhbariya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
@@ -116,9 +116,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/636a4eaf7
 #EXTINF:-1 tvg-name="QazSport" tvg-logo="" tvg-id="QazSport.kz" tvg-chno="1" tvg-country="KZ" group-title="Kazakhstan",QazSport
 http://stream.mcquack.net/72/index.m3u8
 
-#EXTINF:-1 tvg-name="Quarto Canale Flegreo" tvg-logo="https://i.imgur.com/8RKY3Du.png" tvg-country="IT" group-title="Italy",Quarto Canale Flegreo
-http://live.mariatvcdn.com/dialogos/171e41deedf405f10c7dd6311387fb43.sdp/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Radio Immagine Tv" tvg-logo="https://i.imgur.com/iQlXRAB.png" tvg-country="IT" group-title="Italy",Radio Immagine Tv
 https://media.velcom.it:8081/RadioImmagineTV/index.fmp4.m3u8
 
@@ -151,9 +148,6 @@ https://d2hrvno5bw6tg2.cloudfront.net/smrtv-ch02/smil:ch-02.smil/master.m3u8
 
 #EXTINF:-1 tvg-name="SBS TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/SBS_Korea_Logo_%28Word_Only%29.svg/500px-SBS_Korea_Logo_%28Word_Only%29.svg.png" tvg-id="SBSTV.kr" tvg-chno="7" tvg-country="KR" group-title="Korea",SBS TV
 https://allanf181.github.io/adaptive-streams/streams/kr/SBSTV.m3u8
-
-#EXTINF:-1 tvg-name="SoloTV" tvg-logo="https://i.imgur.com/Ad2ueID.png" tvg-id="SoloTV.cl" tvg-chno="22" tvg-country="CL" group-title="Chile",SoloTV
-https://stream.making.cl/memfs/ee909361-73e9-4e74-8391-5f1b0b8006c2.m3u8
 
 #EXTINF:-1 tvg-name="Sport – Pluto TV" tvg-logo="https://i.imgur.com/o2psAYW.png" tvg-id="PlutoTVSportItaly.it" group-title="VOD Italy",Sport – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/608030eff4b6f70007e1684c/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel

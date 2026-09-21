@@ -1,7 +1,7 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-09-20 19:27:42 UTC
+# Generated: 2026-09-21 20:59:16 UTC
 # Total Channels: 77
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
@@ -49,9 +49,6 @@ https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-name="Jazz TV" tvg-logo="https://i.imgur.com/4U6Ju5G.png" tvg-id="JazzTV.mk" tvg-chno="4" tvg-country="MK" group-title="North Macedonia",Jazz TV
 https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
-
-#EXTINF:-1 tvg-name="Latina TV" tvg-logo="https://intervenhosting.net/imagenes/latinatv.jpg" tvg-id="LatinaTV.ve" tvg-chno="10" tvg-country="VE" group-title="Venezuela",Latina TV
-https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
 
 #EXTINF:-1 tvg-name="Mongolia Music" tvg-logo="" tvg-id="" tvg-chno="40" tvg-country="MN" group-title="Mongolia",Mongolia Music
 https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8
@@ -232,6 +229,9 @@ http://194.163.157.137:8080/hls/radioalsace.m3u8
 
 #EXTINF:-1 tvg-name="TV Mulhouse" tvg-logo="https://i.imgur.com/4esQG8H.png" tvg-id="TVMulhouse.fr" tvg-chno="-" tvg-country="FR" group-title="France",TV Mulhouse
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8
+
+#EXTINF:-1 tvg-name="Tv Yes" tvg-logo="https://i.imgur.com/1wsO8U7.png" tvg-country="IT" group-title="Italy",Tv Yes
+https://stream1.aswifi.it/radioyes/live/index.m3u8
 
 #EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="https://i.imgur.com/DPqMpQC.png" tvg-chno="4710" group-title="VOD Italy",Vevo Pop
 https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
