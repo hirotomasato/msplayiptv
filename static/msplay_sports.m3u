@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-10-11 20:54:32 UTC
-# Total Channels: 70
+# Generated: 2026-10-12 23:36:13 UTC
+# Total Channels: 66
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== SPORTS (70 channels) ======
+# ====== SPORTS (66 channels) ======
 
 #EXTINF:-1 tvg-name="Al Ekhbariya" tvg-logo="https://i.imgur.com/WcRlHQm.png" tvg-id="AlEkhbariya.sa" tvg-chno="4" tvg-country="SA" group-title="Saudi Arabia",Al Ekhbariya
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-al-ekhbaria/297b3ef1cd0633ad9cfba7473a686a06/index.m3u8
@@ -40,9 +40,6 @@ https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Drammatico – Rakuten TV" tvg-logo="https://i.imgur.com/Nx3JzZK.jpg" tvg-chno="4998" group-title="VOD Italy",Drammatico – Rakuten TV
 https://f84e0b1628464fab846160df957f269e.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6094/master.m3u8
-
-#EXTINF:-1 tvg-name="Duna World / M4+ Sport" tvg-logo="https://i.imgur.com/DciAdFF.png" tvg-id="DunaWorld.hu" tvg-chno="2" tvg-country="HU" group-title="Hungary",Duna World / M4+ Sport
-http://88.212.15.19/live/duna_world_hun/index.m3u8
 
 #EXTINF:-1 tvg-name="ERT Sports 1" tvg-logo="https://i.imgur.com/gebWmAB.png" tvg-id="ERTSports1.gr" tvg-chno="6" tvg-country="GR" group-title="Greece",ERT Sports 1
 https://ert-ucdn.broadpeak-aas.com/bpk-tv/ERTSports1/default/index.mpd
@@ -188,17 +185,11 @@ https://nrvideo1.newradio.it:1936/vmbjrayngd/vmbjrayngd/playlist.m3u8
 #EXTINF:-1 tvg-name="Telecolor" tvg-logo="https://i.imgur.com/urUG78J.png" tvg-id="TelecolorLombardia.it" tvg-country="IT" group-title="Italy",Telecolor
 https://1aadf145546f475282c5b4e658c0ac4b.msvdn.net/live/324149/hlbAWtl/playlist.m3u8
 
-#EXTINF:-1 tvg-name="TF1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Logo_TF1_2013.svg/500px-Logo_TF1_2013.svg.png" tvg-id="TF1.fr" tvg-chno="1" tvg-country="FR" group-title="France",TF1
-http://151.80.18.177:86/TF1_HD/index.m3u8
-
 #EXTINF:-1 tvg-name="TG4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TG4_logo.svg/960px-TG4_logo.svg.png" tvg-id="TG4.ie" tvg-chno="4" tvg-country="IE" group-title="Ireland",TG4
 https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
 
 #EXTINF:-1 tvg-name="True Crime" tvg-logo="https://raw.githubusercontent.com/dp247/mediaportal-uk-logos/master/TV/True-Crime-UK.png" tvg-id="TrueCrime.uk" tvg-chno="67" tvg-country="GB" group-title="UK",True Crime Ⓢ
 https://b6cca454.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9UcnVlQ3JpbWVVS2Zyb21DQlNSZWFsaXR5X0hMUw/playlist.m3u8
-
-#EXTINF:-1 tvg-name="TSN Tele Sondrio News" tvg-logo="https://i.imgur.com/24Anl5o.png" tvg-chno="85" tvg-country="IT" group-title="Italy",TSN Tele Sondrio News
-https://189790-castr.akamaized.net/633d685a281cd401ae82c2f7/live_bc04bf70449f11ed80952100db9e5fd9/tracks-v1a1/rewind-3600.m3u8
 
 #EXTINF:-1 tvg-name="Türkmen Sporty" tvg-logo="" tvg-id="" tvg-chno="4" tvg-country="TM" group-title="Turkmenistan",Türkmen Sporty
 https://alpha.tv.online.tm/hls/ch004.m3u8
@@ -211,9 +202,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b2
 
 #EXTINF:-1 tvg-name="XSport" tvg-logo="https://i.imgur.com/CHDcfrT.png" tvg-id="XSport.ua" tvg-chno="23" tvg-country="UA" group-title="Ukraine",XSport Ⓢ
 http://cdnua05.hls.tv/946/hls/8743361621b245838bee193c9ec28322/3999/stream.m3u8
-
-#EXTINF:-1 tvg-name="ČT sport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-sport-cz.png" tvg-id="CTSport.cz" tvg-chno="4" tvg-country="CZ" group-title="Czech Republic",ČT sport
-http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Соловьёв Live" tvg-logo="https://i.imgur.com/v0OYe1d.png" tvg-id="SolovyovLive.ru" tvg-country="RU" group-title="Russia",Соловьёв Live
 https://stream.smotrim.ru/hls/solovievlive/playlist.m3u8?entity=channel&id=292&sign=83652f1317ad220efe74a7606d9a7f37

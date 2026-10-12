@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-10-11 20:54:32 UTC
-# Total Channels: 372
+# Generated: 2026-10-12 23:36:13 UTC
+# Total Channels: 369
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== NEWS (372 channels) ======
+# ====== NEWS (369 channels) ======
 
 #EXTINF:-1 tvg-name="#Riccanza – Pluto TV" tvg-logo="https://i.imgur.com/oBpcWEm.png" group-title="VOD Italy",#Riccanza – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626baa721c279b00072cbedd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -31,9 +31,6 @@ https://rtv-murcia-live.globalmest.com/principal/smil:principal.smil/playlist.m3
 
 #EXTINF:-1 tvg-name="70s Cinema" tvg-logo="https://i.imgur.com/wk9Baz9.png" group-title="VOD Movies (EN)",70s Cinema
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=96&deviceId=5f4d878d3d19b30007d2e782&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-1 tvg-name="8 Kanal Vitebsk" tvg-logo="https://i.imgur.com/tjwBSTF.jpg" tvg-id="8kanal.by" tvg-chno="2" tvg-country="BY" group-title="Belarus",8 Kanal Vitebsk Ⓢ
-http://95.46.208.8:24433/art
 
 #EXTINF:-1 tvg-name="80s Rewind" tvg-logo="https://i.imgur.com/0FaLAhK.png" group-title="VOD Movies (EN)",80s Rewind
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=95&deviceId=5ca525b650be2571e3943c63&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -608,6 +605,9 @@ https://streaming.nartv.fi/live/ngrp:NAR_TV.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="Ora News" tvg-logo="https://i.imgur.com/ILZY5bJ.png" tvg-id="OraNews.al" tvg-country="AL" group-title="Albania",Ora News
 https://live1.mediadesk.al/oranews.m3u8
 
+#EXTINF:-1 tvg-name="Orler Tv" tvg-logo="https://i.imgur.com/dBkxD8e.png" tvg-country="IT" group-title="Italy",Orler Tv
+https://w1.mediastreaming.it/orlertv/livestream/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Pannon RTV" tvg-logo="https://i.imgur.com/iD5tCjX.png" tvg-chno="27" tvg-country="HU" group-title="Hungary",Pannon RTV
 https://stream2.nmih.hu:4102/live.m3u8
 
@@ -743,9 +743,6 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-name="RT Español" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/500px-Russia-today-logo.svg.png" tvg-id="RTenEspanol.ru" tvg-chno="5" group-title="News (ES)",RT Español Ⓖ
 https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RT Д Русский" tvg-logo="https://i.imgur.com/v5fpEBo.png" tvg-id="RTD.ru" tvg-chno="23" tvg-country="RU" group-title="Russia",RT Д Русский Ⓖ
-https://hls.rt.com/hls/rtdru.m3u8
-
 #EXTINF:-1 tvg-name="RT العربية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/500px-Russia-today-logo.svg.png" tvg-id="RTArabic.ru" tvg-chno="8" group-title="News (AR)",RT العربية
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 
@@ -776,9 +773,6 @@ https://streamcdng14-dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S82929343/c
 #EXTINF:-1 tvg-name="RTL 102.5 Traffic" tvg-logo="https://i.imgur.com/GH7byqm.jpeg" tvg-id="RTL1025Traffic.it" tvg-chno="233" tvg-country="IT" group-title="Italy",RTL 102.5 Traffic
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTL Klub" tvg-logo="https://i.imgur.com/ruRshE1.png" tvg-id="RTLKlub.hu" tvg-chno="1" tvg-country="HU" group-title="Hungary",RTL Klub
-http://88.212.15.19/live/test_rtl_klub_hungary_1200_atk/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RTL Télé Lëtzebuerg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/RTL_Luxembourg_2023.svg/500px-RTL_Luxembourg_2023.svg.png" tvg-id="RTLTeleLuxembourg.lu" tvg-chno="1" tvg-country="LU" group-title="Luxembourg",RTL Télé Lëtzebuerg
 https://live-edge.rtl.lu/channel1/smil:channel1/playlist.m3u8
 
@@ -794,14 +788,20 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTP Madeira" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/RTP_Madeira_2016.png" tvg-id="RTPMadeira.pt" tvg-chno="7" tvg-country="PT" group-title="Portugal",RTP Madeira Ⓢ
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="RTP Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/330px-RTP_Mundo.svg.png" tvg-id="RTPInternacional.pt" tvg-chno="10" tvg-country="PT" group-title="Portugal",RTP Mundo
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="RTP notícias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" tvg-id="RTPNoticias.pt" tvg-chno="8" tvg-country="PT" group-title="Portugal",RTP notícias
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Rtp Tv" tvg-logo="https://i.imgur.com/I1hYI0C.png" tvg-country="IT" group-title="Italy",Rtp Tv
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTP2" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4d/Rtp2_2016_logo.png" tvg-id="RTP2.pt" tvg-chno="2" tvg-country="PT" group-title="Portugal",RTP2 Ⓖ
-https://streaming-live.rtp.pt/liverepeater/rtp2HD.smil/playlist.m3u8
+#EXTINF:-1 tvg-name="RTP África" tvg-logo="https://i.imgur.com/ISFNy17.png" tvg-id="RTPAfrica.pt" tvg-chno="14" tvg-country="PT" group-title="Portugal",RTP África
+https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RTP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/500px-RTP1_-_Logo_2016.svg.png" tvg-id="RTP1.pt" tvg-chno="1" tvg-country="PT" group-title="Portugal",RTP1
+https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" tvg-id="RTP3.pt" tvg-chno="3" tvg-country="PT" group-title="Portugal",RTP3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR=
@@ -902,9 +902,6 @@ https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
 #EXTINF:-1 tvg-name="Sky News Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" tvg-id="SkyNewsArabia.ae" tvg-chno="14" tvg-country="AE" group-title="United Arab Emirates",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
 
-#EXTINF:-1 tvg-name="Sky News Weather" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" tvg-id="SkyNewsWeather.uk" tvg-chno="206" group-title="Weather",Sky News Weather Ⓖ
-https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
-
 #EXTINF:-1 tvg-name="South Park – Pluto TV" tvg-logo="https://i.imgur.com/06wIdRV.png" group-title="VOD Italy",South Park – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62bc1f502b70e3000706298e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -952,9 +949,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6093f6f83
 
 #EXTINF:-1 tvg-name="Super! Zoey 101 – Pluto TV" tvg-logo="https://i.imgur.com/7FCQb1G.png" group-title="VOD Italy",Super! Zoey 101 – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/6304ed62410a4c00083c0291/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
-
-#EXTINF:-1 tvg-name="SuperTV" tvg-logo="https://i.imgur.com/XYWgd3E.png" tvg-id="SuperTV.ba" tvg-chno="12" tvg-country="BA" group-title="Bosnia and Herzegovina",SuperTV
-https://live.tv-m.net/hls/stream.m3u8
 
 #EXTINF:-1 tvg-name="Supertv" tvg-logo="https://i.imgur.com/7gUZcEh.png" tvg-country="IT" group-title="Italy",Supertv
 http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
@@ -1111,9 +1105,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb82e24
 
 #EXTINF:-1 tvg-name="ZEE News" tvg-logo="https://i.imgur.com/lmgtjqw.jpeg" tvg-id="zeenews.india.com" tvg-chno="30" tvg-country="IN" group-title="India",ZEE News Ⓨ
 https://www.youtube.com/@ZEENews/live
-
-#EXTINF:-1 tvg-name="ČT art" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-art-cz.png" tvg-id="CTart.cz" tvg-chno="6" tvg-country="CZ" group-title="Czech Republic",ČT art
-http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Мир" tvg-logo="https://i.imgur.com/L2slsbG.png" tvg-id="Mir.ru" tvg-chno="19" tvg-country="RU" group-title="Russia",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8

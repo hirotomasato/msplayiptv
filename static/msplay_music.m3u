@@ -1,12 +1,15 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-10-11 20:54:32 UTC
-# Total Channels: 74
+# Generated: 2026-10-12 23:36:13 UTC
+# Total Channels: 75
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MUSIC (74 channels) ======
+# ====== MUSIC (75 channels) ======
+
+#EXTINF:-1 tvg-name="Aguacate TV" tvg-logo="https://intervenhosting.net/imagenes/aguacatetv.jpg" tvg-id="AguacateTV.ve" tvg-chno="12" tvg-country="VE" group-title="Venezuela",Aguacate TV
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-name="All the K-Pop" tvg-logo="https://i.imgur.com/tBbTTAx.png" tvg-id="AlltheKPop.kr" tvg-chno="30" tvg-country="KR" group-title="Korea",All the K-Pop Ⓨ
 https://www.youtube.com/c/ALLTHEKPOP/live
