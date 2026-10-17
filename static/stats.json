@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-10-16T19:53:33.778038+00:00",
-  "total_channels": 1421,
+  "generated_at": "2026-10-17T19:12:30.268558+00:00",
+  "total_channels": 1378,
   "categories": {
-    "General": 863,
-    "News": 379,
-    "Kids": 12,
-    "Music": 76,
-    "Movies": 19,
-    "Sports": 67,
+    "General": 839,
+    "News": 372,
+    "Kids": 11,
+    "Music": 75,
+    "Movies": 15,
+    "Sports": 62,
     "Entertainment": 3,
-    "Documentary": 2
+    "Documentary": 1
   },
   "sources": [
     "Free-TV"
