@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-10-18 19:23:17 UTC
-# Total Channels: 821
+# Generated: 2026-10-19 21:25:39 UTC
+# Total Channels: 829
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== GENERAL (821 channels) ======
+# ====== GENERAL (829 channels) ======
 
 #EXTINF:-1 tvg-name="+Perfil" tvg-logo="https://i.imgur.com/3wZdPwN.png" tvg-id="MasPerfil.ar" tvg-chno="25.6" tvg-country="AR" group-title="Argentina",+Perfil
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
@@ -365,6 +365,12 @@ https://srvx1.selftv.video/cafe/live/playlist.m3u8
 #EXTINF:-1 tvg-name="Calabria tv" tvg-logo="https://i.imgur.com/qWirucd.png" tvg-country="IT" group-title="Italy",Calabria tv
 https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Calabria Uno Tv" tvg-logo="https://i.imgur.com/2TK1GQ5.png" tvg-country="IT" group-title="Italy",Calabria Uno Tv
+https://635320cd397eb.streamlock.net/live/calabriaunolive/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Canal 1" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/gruponacion/2XI5OC6MQZFXXBDGMRRDOZSL2Q.jpg" tvg-id="Canal1.cr" tvg-chno="1" tvg-country="CR" group-title="Costa Rica",Canal 1
+https://vid.canal1cr.com:3424/multi_live/play_720.m3u8
+
 #EXTINF:-1 tvg-name="Canal 13" tvg-logo="https://i.imgur.com/JIo1HBs.png" tvg-id="Canal13.cl" tvg-chno="6" tvg-country="CL" group-title="Chile",Canal 13
 https://redirector.dps.live/hls/13cl/playlist.m3u8
 
@@ -406,6 +412,9 @@ https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Casa Sanremo Tv" tvg-logo="https://i.imgur.com/WL3SFTs.png" tvg-country="IT" group-title="Italy",Casa Sanremo Tv
 https://router.xdevel.com/video0s975911-633/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-name="Castrovillari Tv" tvg-logo="https://i.imgur.com/V0kjYNG.png" tvg-country="IT" group-title="Italy",Castrovillari Tv
+http://msh0062.stream.seeweb.it/live/flv:stream00.sdp/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CCTV-1 综合" tvg-logo="https://i.imgur.com/uHU6Vc0.png" tvg-id="CCTV1.cn" tvg-chno="1" tvg-country="CN" group-title="China",CCTV-1 综合
 http://74.91.26.218:82/live/cctv1hd.m3u8
@@ -752,6 +761,9 @@ https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out
 #EXTINF:-1 tvg-name="Globovisión" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/47/Globovisi%C3%B3n_logo_2013.png" tvg-id="Globovision.ve" tvg-chno="6" tvg-country="VE" group-title="Venezuela",Globovisión
 http://181.78.8.199:8000/play/a09k/index.m3u8
 
+#EXTINF:-1 tvg-name="Globus Television" tvg-logo="https://i.imgur.com/yUTYqCv.png" tvg-country="IT" group-title="Italy",Globus Television
+https://cdn.cubws.com/live/globus.m3u8
+
 #EXTINF:-1 tvg-name="Gnomi" tvg-logo="https://i.imgur.com/mHCk05E.png" tvg-id="gnomitv.gr" tvg-chno="55" tvg-country="GR" group-title="Greece",Gnomi
 https://live.streams.ovh:8081/gnomitv/index.m3u8
 
@@ -911,18 +923,6 @@ https://59d7d6f47d7fc.streamlock.net/italia2/italia2/playlist.m3u8
 #EXTINF:-1 tvg-name="ITV" tvg-logo="https://i.imgur.com/NZdT9yJ.png" tvg-id="ITV.ua" tvg-chno="11" tvg-country="UA" group-title="Ukraine",ITV
 http://cdn10.live-tv.od.ua:8081/itvrv/abr/playlist.m3u8
 
-#EXTINF:-1 tvg-name="ITV 1" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/ITV1_logo_%282022%29.svg/500px-ITV1_logo_%282022%29.svg.png" tvg-id="ITV1.uk" tvg-chno="3" tvg-country="GB" group-title="UK",ITV 1
-http://45.14.84.37/itv1/index.m3u8
-
-#EXTINF:-1 tvg-name="ITV 2" tvg-logo="https://i.imgur.com/Ji65OXG.png" tvg-id="ITV2.uk" tvg-chno="9" tvg-country="GB" group-title="UK",ITV 2
-http://45.14.84.37/itv2/index.m3u8
-
-#EXTINF:-1 tvg-name="ITV 3" tvg-logo="https://i.imgur.com/vYNyYGx.png" tvg-id="ITV3.uk" tvg-chno="13" tvg-country="GB" group-title="UK",ITV 3
-http://45.14.84.37/itv3/index.m3u8
-
-#EXTINF:-1 tvg-name="ITV 4" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/57/ITV4_logo_%282022%29.svg/500px-ITV4_logo_%282022%29.svg.png" tvg-id="ITV4.uk" tvg-chno="26" tvg-country="GB" group-title="UK",ITV 4
-http://45.14.84.37/itv4/index.m3u8
-
 #EXTINF:-1 tvg-name="Jewellery Maker" tvg-logo="https://i.imgur.com/O7SdkBh.png" tvg-id="JewelleryMaker.uk" tvg-chno="72" tvg-country="GB" group-title="UK",Jewellery Maker
 https://lo3.gemporia.com/abrjewellerymaker/smil:livestreamFullHD.smil/playlist.m3u8
 
@@ -1052,9 +1052,6 @@ https://lcp.fr/le-live-lcp-tnt-5433
 #EXTINF:-1 tvg-name="Le Cronache Lucane Tv" tvg-logo="https://i.imgur.com/EBY3IZL.jpg" tvg-country="IT" group-title="Italy",Le Cronache Lucane Tv
 http://stucazz.com:8888/hls/cronache.m3u8
 
-#EXTINF:-1 tvg-name="Lepanto" tvg-logo="https://i.imgur.com/h6Tqe0k.png" tvg-id="lepantortv.gr" tvg-chno="64" tvg-country="GR" group-title="Greece",Lepanto
-https://fr.crystalweb.net:1936/lepantotv/lepantotv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Lietuvos Rytas TV" tvg-logo="https://i.imgur.com/5wpxVI0.png" tvg-id="LietuvosRytasTV.lt" tvg-chno="9" tvg-country="LT" group-title="Lithuania",Lietuvos Rytas TV
 https://live.lietuvosryto.tv/live/hls/eteris.m3u8
 
@@ -1084,9 +1081,6 @@ https://5db313b643fd8.streamlock.net/lmbiatv/lmbiatv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Love TV" tvg-logo="https://i.imgur.com/B8iaejQ.png" tvg-id="LoveTV.mk" tvg-chno="5" tvg-country="MK" group-title="North Macedonia",Love TV
 https://stream.nasatv.com.mk/lovetv/hls/lovetv_live.m3u8
-
-#EXTINF:-1 tvg-name="Lychnos" tvg-logo="hhttps://i.imgur.com/JYSlBfY.png" tvg-id="lychnostv.gr" tvg-chno="65" tvg-country="GR" group-title="Greece",Lychnos
-https://thor.mental-media.gr:19360/imp/imp.m3u8
 
 #EXTINF:-1 tvg-name="Líceum TV" tvg-logo="" tvg-chno="26" tvg-country="HU" group-title="Hungary",Líceum TV
 http://193.225.32.62:8890/live.m3u8
@@ -1294,6 +1288,15 @@ https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Noursat English" tvg-logo="" tvg-id="NoursatEnglish.lb" tvg-chno="7" group-title="Lebanon",Noursat English
 https://svs.itworkscdn.net/noursatenglive/noursateng.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Nova Fun" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-fun-cz.png" tvg-id="NovaFun.cz" tvg-chno="11" tvg-country="CZ" group-title="Czech Republic",Nova Fun
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaFun
+
+#EXTINF:-1 tvg-name="Nova Gold" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-gold-cz.png" tvg-id="NovaGold.cz" tvg-chno="12" tvg-country="CZ" group-title="Czech Republic",Nova Gold
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaGold
+
+#EXTINF:-1 tvg-name="Nova Lady" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-lady-cz.png" tvg-id="NovaLady.cz" tvg-chno="13" tvg-country="CZ" group-title="Czech Republic",Nova Lady
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaLady
 
 #EXTINF:-1 tvg-name="Nove" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-id="Nove.it" tvg-chno="9" tvg-country="IT" group-title="Italy",Nove
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/NOVE/CMAF/index.m3u8
@@ -1532,6 +1535,9 @@ https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
 #EXTINF:-1 tvg-name="Rete Biella Tv" tvg-logo="https://i.imgur.com/e2ryHx7.png" tvg-country="IT" group-title="Italy",Rete Biella Tv
 https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Rete Mia" tvg-logo="https://i.imgur.com/kCJ621Q.png" tvg-country="IT" group-title="Italy",Rete Mia
+https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Rete Oro Tv" tvg-logo="https://i.imgur.com/OCxGtwA.png" tvg-country="IT" group-title="Italy",Rete Oro Tv
 https://5926fc9c7c5b2.streamlock.net/9094/9094/playlist.m3u8
 
@@ -1558,6 +1564,9 @@ http://213.7.216.229:8888/udp/239.23.0.5:1234
 
 #EXTINF:-1 tvg-name="RIK Sat" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Logo_RIK_Sat_2017.svg/500px-Logo_RIK_Sat_2017.svg.png" tvg-id="RIKSat.cy" tvg-chno="4" tvg-country="CY" group-title="Cyprus",RIK Sat
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rossini Tv" tvg-logo="https://i.imgur.com/K0Em0nx.jpg" tvg-country="IT" group-title="Italy",Rossini Tv
+https://stream.rossinitv.it/memfs/3bca4ad7-adfc-4610-ac0e-e826743ddc57.m3u8
 
 #EXTINF:-1 tvg-name="Rustavi 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/Rustavi_2_logo.png" tvg-id="Rustavi2.ge" tvg-chno="4" tvg-country="GE" group-title="Georgia",Rustavi 2
 http://nue01-edge01.itdc.ge/rustavi2hqnew/mpegts
@@ -1673,6 +1682,15 @@ https://proxy.media.convergenze.it/stiletv/streams/oQOFd7JglHjO1631525551097.m3u
 #EXTINF:-1 tvg-name="Studio 100" tvg-logo="https://i.imgur.com/z84qFXd.png" tvg-country="IT" group-title="Italy",Studio 100
 https://cdn16.streamshow.it/cloud-studio100/studio100/playlist.m3u8
 
+#EXTINF:-1 tvg-name="STVR :24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-24-sk.png" tvg-id="RTVS24.sk" tvg-chno="15" tvg-country="SK" group-title="Slovakia",STVR :24
+https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20%3A24
+
+#EXTINF:-1 tvg-name="STVR :O" tvg-logo=" :" tvg-chno="17" tvg-country="SK" group-title="Slovakia",STVR :O
+https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20%3AO
+
+#EXTINF:-1 tvg-name="STVR Live" tvg-logo=" Liv" tvg-chno="19" tvg-country="SK" group-title="Slovakia",STVR Live
+https://sktv.mxnticek.eu/new/stream.php?ch=STVR%20Live
+
 #EXTINF:-1 tvg-name="Suld TV" tvg-logo="" tvg-id="SuldTV.mn" tvg-chno="31" tvg-country="MN" group-title="Mongolia",Suld TV
 https://cdn4.skygo.mn/live/disk1/SuldTV/HLSv3-FTA/SuldTV.m3u8
 
@@ -1702,6 +1720,9 @@ https://eco.streams.ovh:1936/syrostv1/syrostv1/playlist.m3u8
 
 #EXTINF:-1 tvg-name="T13 en vivo" tvg-logo="https://i.imgur.com/3CEijac.png" tvg-id="T13.cl" tvg-chno="10" tvg-country="CL" group-title="Chile",T13 en vivo
 https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TA3" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/ta3-sk.png" tvg-id="TA3.sk" tvg-chno="20" tvg-country="SK" group-title="Slovakia",TA3
+https://sktv.mxnticek.eu/new/stream.php?ch=TA3
 
 #EXTINF:-1 tvg-name="Taevas TV7" tvg-logo="https://i.imgur.com/usXedIj.png" tvg-id="TaevasTV7.fi" tvg-chno="5" tvg-country="EE" group-title="Estonia",Taevas TV7
 https://vod.tv7.fi/tv7-ee/_definst_/smil:tv7-ee.smil/playlist.m3u8
@@ -1771,6 +1792,9 @@ http://59d7d6f47d7fc.streamlock.net/telejonio/telejonio/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tele Lacco Ameno" tvg-logo="https://hostux.pics/images/2026/09/11/25_tele_lacco_ameno054250ed4a5ba4e2.png" tvg-country="IT" group-title="Italy",Tele Lacco Ameno
 https://rst2.saiuzwebnetwork.it:8081/laccoamenotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="Tele Laser" tvg-logo="https://hostux.pics/images/2026/09/11/26_tele_lasera82328430bd5c30c.png" tvg-country="IT" group-title="Italy",Tele Laser
+https://585b674743bbb.streamlock.net/9022/9022/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Tele Liguria Sud" tvg-logo="https://i.imgur.com/BeLAYJ6.jpg" tvg-country="IT" group-title="Italy",Tele Liguria Sud
 https://64b16f23efbee.streamlock.net/teleliguriasud/teleliguriasud/playlist.m3u8
@@ -1883,8 +1907,8 @@ https://vstream-cdn.ch/hls/teleticino_720p/index.m3u8
 #EXTINF:-1 tvg-name="Teleuniverso" tvg-logo="https://i.imgur.com/u8E9wBb.png" tvg-country="IT" group-title="Italy",Teleuniverso
 https://stream.ets-sistemi.it:19360/teleuniverso/teleuniverso.m3u8
 
-#EXTINF:-1 tvg-name="Televallo Trapani" tvg-logo="https://i.imgur.com/P6zuiRH.png" tvg-country="IT" group-title="Italy",Televallo Trapani
-https://64b16f23efbee.streamlock.net/televallo/televallo/playlist.m3u8
+#EXTINF:-1 tvg-name="Televen" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Televen_logo.PNG" tvg-id="Televen.ve" tvg-chno="4" tvg-country="VE" group-title="Venezuela",Televen
+http://181.78.8.199:8000/play/a09j/index.m3u8
 
 #EXTINF:-1 tvg-name="Televisa Telenovelas" tvg-logo="https://i.imgur.com/GaJIRN3.jpg" tvg-chno="4169" group-title="VOD Italy",Televisa Telenovelas
 https://televisa-televisa-1-it.samsung.wurl.tv/playlist.m3u8
@@ -1894,9 +1918,6 @@ https://www.youtube.com/user/TVPublicaArgentina/live
 
 #EXTINF:-1 tvg-name="Televizija 5" tvg-logo="https://i.imgur.com/znpvJys.png" tvg-id="Televizija5.ba" tvg-chno="10" tvg-country="BA" group-title="Bosnia and Herzegovina",Televizija 5
 https://balkanmedia.dynu.net/hls/tv5web.m3u8
-
-#EXTINF:-1 tvg-name="Televizija Slavonije i Baranje (STV)" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/0/04/STV.PNG" tvg-id="STV.hr" tvg-chno="17" tvg-country="HR" group-title="Croatia",Televizija Slavonije i Baranje (STV)
-http://89.201.163.244:8080/hls/hdmi.m3u8
 
 #EXTINF:-1 tvg-name="TenGer TV (720p)" tvg-logo="" tvg-id="TenGerTV.mn" tvg-chno="26" tvg-country="MN" group-title="Mongolia",TenGer TV (720p)
 https://cdn4.skygo.mn/live/disk1/VTV/HLSv3-FTA/VTV.m3u8
@@ -1927,9 +1948,6 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-thikrayat/8cfa8fe0c9627573574
 
 #EXTINF:-1 tvg-name="Tingvarp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/90/Logo_-_L%C3%B8gting.png" tvg-id="Tingvarp.fo" tvg-chno="2" tvg-country="FO" group-title="Faroe Islands",Tingvarp
 https://play.kringvarp.fo/redirect/tingvarp/_definst_/smil:tingvarp.smil?type=m3u8
-
-#EXTINF:-1 tvg-name="Tirol TV" tvg-logo="https://i.imgur.com/1E7Nflo.jpg" tvg-id="TirolTV.at" tvg-chno="8" tvg-country="AT" group-title="Austria",Tirol TV Ⓖ
-https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
 
 #EXTINF:-1 tvg-name="TJC" tvg-logo="https://i.imgur.com/fk5rEje.png" tvg-id="TJC.uk" tvg-chno="22" tvg-country="GB" group-title="UK",TJC
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
@@ -2021,11 +2039,17 @@ https://www.youtube.com/channel/UCvNIJIY4CM-T28UQgbUE4rQ/live
 #EXTINF:-1 tvg-name="TV Eger" tvg-logo="https://i.imgur.com/GUVW073.png" tvg-id="TVEger.hu" tvg-chno="19" tvg-country="HU" group-title="Hungary",TV Eger
 http://stream.tveger.hu:8010/live.m3u8
 
+#EXTINF:-1 tvg-name="TV Jadran" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/9/9a/Tv_jadran_logo.png" tvg-id="TVJadran.hr" tvg-chno="51" tvg-country="HR" group-title="Croatia",TV Jadran
+https://tvjadran.stream.agatin.hr:3412/live/tvjadranlive.m3u8
+
 #EXTINF:-1 tvg-name="Tv Luna Napoli" tvg-logo="https://i.imgur.com/jxhuoyE.png" tvg-country="IT" group-title="Italy",Tv Luna Napoli
 https://diretta.arcapuglia.it:8080/live/teleluna/index.m3u8
 
 #EXTINF:-1 tvg-name="TV Nova" tvg-logo="https://upload.wikimedia.org/wikipedia/hr/c/c8/TVnova-logo.png" tvg-id="TVNova.hr" tvg-chno="38" tvg-country="HR" group-title="Croatia",TV Nova
 https://stream.agatin.hr:3727/live/tvnovalive.m3u8
+
+#EXTINF:-1 tvg-name="TV Nova" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cz.png" tvg-id="tvnova.cz" tvg-chno="8" tvg-country="CZ" group-title="Czech Republic",TV Nova Ⓢ
+https://sktv.mxnticek.eu/new/stream.php?ch=Nova
 
 #EXTINF:-1 tvg-name="TV Pirveli" tvg-logo="https://i.imgur.com/cGHsM1x.png" tvg-id="TVPirveli.ge" tvg-chno="7" tvg-country="GE" group-title="Georgia",TV Pirveli
 http://nue01-edge01.itdc.ge/pirvelitv/mpegts
@@ -2297,6 +2321,9 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 #EXTINF:-1 tvg-name="Óčko Star" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ocko-star-cz.png" tvg-id="OckoStar.cz" tvg-chno="30" tvg-country="CZ" group-title="Czech Republic",Óčko Star Ⓢ
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 
+#EXTINF:-1 tvg-name="ČT :D" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/ct-d-cz.png" tvg-id="CTDecko.cz" tvg-chno="5" tvg-country="CZ" group-title="Czech Republic",ČT :D
+https://sktv.mxnticek.eu/new/stream.php?ch=CT_D
+
 #EXTINF:-1 tvg-name="Šlágr Muzika" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/slagr-muzika-cz.png" tvg-id="SlagrMuzika.cz" tvg-chno="33" tvg-country="CZ" group-title="Czech Republic",Šlágr Muzika Ⓢ
 https://stream-23.mazana.tv/slagrmuzika.m3u8s
 
@@ -2449,9 +2476,6 @@ http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
 
 #EXTINF:-1 tvg-name="Че" tvg-logo="" tvg-id="PeretzInternational.ru" tvg-chno="27" tvg-country="RU" group-title="Russia",Че
 https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
-
-#EXTINF:-1 tvg-name="כאן 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/500px-Kan11Logo.svg.png" tvg-id="Kan11.il" tvg-chno="11" tvg-country="IL" group-title="Israel",כאן 11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-name="כאן חינוכית" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/KanHinuchit.svg/500px-KanHinuchit.svg.png" tvg-id="KanEducational.il" tvg-chno="99" tvg-country="IL" group-title="Israel",כאן חינוכית
 http://stream.mcquack.net/378/index.m3u8

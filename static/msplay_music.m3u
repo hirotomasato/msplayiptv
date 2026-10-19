@@ -1,12 +1,15 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-10-18 19:23:17 UTC
-# Total Channels: 72
+# Generated: 2026-10-19 21:25:39 UTC
+# Total Channels: 74
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MUSIC (72 channels) ======
+# ====== MUSIC (74 channels) ======
+
+#EXTINF:-1 tvg-name="Aguacate TV" tvg-logo="https://intervenhosting.net/imagenes/aguacatetv.jpg" tvg-id="AguacateTV.ve" tvg-chno="12" tvg-country="VE" group-title="Venezuela",Aguacate TV
+https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-name="All the K-Pop" tvg-logo="https://i.imgur.com/tBbTTAx.png" tvg-id="AlltheKPop.kr" tvg-chno="30" tvg-country="KR" group-title="Korea",All the K-Pop Ⓨ
 https://www.youtube.com/c/ALLTHEKPOP/live
@@ -41,6 +44,9 @@ https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Globo Tv" tvg-logo="https://i.imgur.com/lR08pb3.jpeg" tvg-country="IT" group-title="Italy",Globo Tv
 https://nrvideo1.newradio.it:1936/awrgaebshj/awrgaebshj/playlist.m3u8
 
+#EXTINF:-1 tvg-name="inter TV" tvg-logo="https://intervenhosting.net/imagenes/itv.jpg" tvg-id="interTV.ve" tvg-chno="11" tvg-country="VE" group-title="Venezuela",inter TV
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-name="Latina TV" tvg-logo="https://intervenhosting.net/imagenes/latinatv.jpg" tvg-id="LatinaTV.ve" tvg-chno="10" tvg-country="VE" group-title="Venezuela",Latina TV
 https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
 
@@ -58,9 +64,6 @@ https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
 
 #EXTINF:-1 tvg-name="MTV Uutiset Live" tvg-logo="https://i.imgur.com/IyB6mIb.png" tvg-id="MTVUutiset.fi" tvg-chno="99" tvg-country="FI" group-title="Finland",MTV Uutiset Live
 https://live.streaming.a2d.tv/content/channels/uutiset/cmaf.m3u8
-
-#EXTINF:-1 tvg-name="MTV3" tvg-logo="https://i.imgur.com/kNbmc8n.png" tvg-id="MTV3.fi" tvg-chno="3" tvg-country="FI" group-title="Finland",MTV3
-https://live-fi.tvkaista.net/mtv3/live.m3u8?src=freetv
 
 #EXTINF:-1 tvg-name="Music Channel" tvg-logo="http://media.boni-records.com/logo.png" tvg-id="Boni-Records.com.us" tvg-chno="3" tvg-country="US" group-title="USA",Music Channel
 http://media.boni-records.com/index.m3u8
@@ -217,6 +220,9 @@ http://194.163.157.137:8080/hls/radioalsace.m3u8
 
 #EXTINF:-1 tvg-name="TV Mulhouse" tvg-logo="https://i.imgur.com/4esQG8H.png" tvg-id="TVMulhouse.fr" tvg-chno="-" tvg-country="FR" group-title="France",TV Mulhouse
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8
+
+#EXTINF:-1 tvg-name="Tv Yes" tvg-logo="https://i.imgur.com/1wsO8U7.png" tvg-country="IT" group-title="Italy",Tv Yes
+https://stream1.aswifi.it/radioyes/live/index.m3u8
 
 #EXTINF:-1 tvg-name="Vevo Pop" tvg-logo="https://i.imgur.com/DPqMpQC.png" tvg-chno="4710" group-title="VOD Italy",Vevo Pop
 https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8

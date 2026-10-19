@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-10-18 19:23:17 UTC
-# Total Channels: 368
+# Generated: 2026-10-19 21:25:39 UTC
+# Total Channels: 374
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== NEWS (368 channels) ======
+# ====== NEWS (374 channels) ======
 
 #EXTINF:-1 tvg-name="#Riccanza – Pluto TV" tvg-logo="https://i.imgur.com/oBpcWEm.png" group-title="VOD Italy",#Riccanza – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626baa721c279b00072cbedd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -56,6 +56,9 @@ https://www.twitch.tv/abcnewsal
 #EXTINF:-1 tvg-name="ABP News" tvg-logo="https://i.imgur.com/DKHUFVQ.png" tvg-id="[ABP News](https://abplive.com)" tvg-chno="2" tvg-country="IN" group-title="India",ABP News
 https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/abpnews-livetv/master.m3u8
 
+#EXTINF:-1 tvg-name="ADtv" tvg-logo="https://i.imgur.com/FvlcU3z.png" tvg-chno="12" tvg-country="PT" group-title="Portugal",ADtv Ⓢ
+https://playout172.livextend.cloud/liveiframe/_definst_/ngrp:liveartvabr_abr/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Affare Fatto – Pluto TV" tvg-logo="https://i.imgur.com/BuGkGsL.png" group-title="VOD Italy",Affare Fatto – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/64ec5c6644fe100009d114ae/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
@@ -86,6 +89,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65b90daed
 #EXTINF:-1 tvg-name="Antenna 3 Massa" tvg-logo="https://i.imgur.com/CHDU86j.png" tvg-country="IT" group-title="Italy",Antenna 3 Massa
 https://media2021.rtvweb.com/antenna3massa/a3/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Aristanis SuperTv" tvg-logo="https://i.imgur.com/v8PlAJO.png" tvg-country="IT" group-title="Italy",Aristanis SuperTv
+https://video2.azotosolutions.com:1936/supertvoristano/supertvoristano/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Arte Network Orler" tvg-logo="https://i.imgur.com/DP5y0Er.png" tvg-country="IT" group-title="Italy",Arte Network Orler
 https://tsw.streamingwebtv24.it:1936/artenetwork/artenetwork/playlist.m3u8
 
@@ -112,6 +118,9 @@ http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="AZTV" tvg-logo="https://i.imgur.com/snBMMeH.png" tvg-id="AZTV.az" tvg-country="AZ" group-title="Azerbaijan",AZTV Ⓢ
 https://str.yodacdn.net/azertv/index.m3u8
+
+#EXTINF:-1 tvg-name="Baku TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Baku_TV_%282018%29.png/500px-Baku_TV_%282018%29.png" tvg-id="BakuTV.az" tvg-country="AZ" group-title="Azerbaijan",Baku TV
+https://rtmp.baku.tv/hls/bakutv.m3u8
 
 #EXTINF:-1 tvg-name="BBC Asian Network" tvg-logo="https://experiencersinternational.github.io/tvsetup/tvg-ico/bbcasiannet-epg.png" tvg-id="BBCRadioAsianNetwork.uk" tvg-chno="10" tvg-country="GB" group-title="UK",BBC Asian Network
 https://lsn.lv/bbcradio.m3u8?station=bbc_asian_network&bitrate=320000
@@ -473,6 +482,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/612375086
 #EXTINF:-1 tvg-name="iNEWS" tvg-logo="https://i.imgur.com/PeuBkaH.png" tvg-id="INews.iq" tvg-chno="10" tvg-country="IQ" group-title="Iraq",iNEWS
 https://live.i-news.tv/hls/stream.m3u8
 
+#EXTINF:-1 tvg-name="ISTV" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b5/Logotipo_da_ISTV.png" tvg-id="ISTVHD.br" tvg-chno="8" tvg-country="BR" group-title="Brazil",ISTV
+https://video08.logicahost.com.br/istvnacional/srt.stream/istvnacional.m3u8
+
 #EXTINF:-1 tvg-name="Iunior Tv" tvg-logo="https://i.imgur.com/9jeNlLE.png" tvg-id="IuniorTV.it" tvg-country="IT" group-title="Italy",Iunior Tv
 https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 
@@ -755,6 +767,9 @@ https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="RTE News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/Updated_RT%C3%89_News_and_Current_Affairs_Logo.png" tvg-id="RTENews.ie" tvg-chno="21" tvg-country="IE" group-title="Ireland",RTE News
 https://live.rte.ie/live/a/channel3/channel3.isml/channel3.m3u8
 
+#EXTINF:-1 tvg-name="RTHK TV 31" tvg-logo="https://i.imgur.com/kf818kM.png" tvg-id="RTHKTV31.hk" tvg-chno="31" tvg-country="HK" group-title="Hong Kong",RTHK TV 31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+
 #EXTINF:-1 tvg-name="RTI Calabria" tvg-logo="https://i.imgur.com/hVzEvmo.jpg" tvg-country="IT" group-title="Italy",RTI Calabria
 https://stream.ets-sistemi.it:8081/rticalabria/index.m3u8
 
@@ -785,9 +800,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="RTP Madeira" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/ac/RTP_Madeira_2016.png" tvg-id="RTPMadeira.pt" tvg-chno="7" tvg-country="PT" group-title="Portugal",RTP Madeira Ⓢ
 https://streaming-live.rtp.pt/liverepeater/smil:rtpmadeira.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="RTP Mundo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/RTP_Mundo.svg/330px-RTP_Mundo.svg.png" tvg-id="RTPInternacional.pt" tvg-chno="10" tvg-country="PT" group-title="Portugal",RTP Mundo
-https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="RTP notícias" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" tvg-id="RTPNoticias.pt" tvg-chno="8" tvg-country="PT" group-title="Portugal",RTP notícias
 https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
@@ -796,9 +808,6 @@ https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTP África" tvg-logo="https://i.imgur.com/ISFNy17.png" tvg-id="RTPAfrica.pt" tvg-chno="14" tvg-country="PT" group-title="Portugal",RTP África
 https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="RTP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/500px-RTP1_-_Logo_2016.svg.png" tvg-id="RTP1.pt" tvg-chno="1" tvg-country="PT" group-title="Portugal",RTP1
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTP3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Rtp3.png" tvg-id="RTP3.pt" tvg-chno="3" tvg-country="PT" group-title="Portugal",RTP3
 https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8?DVR=
@@ -992,8 +1001,14 @@ https://www.twitch.tv/topnewsal
 #EXTINF:-1 tvg-name="Totò – Pluto TV" tvg-logo="https://i.imgur.com/wLDteJZ.png" group-title="VOD Italy",Totò – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/65253f9881f942000833ccd5/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
 
+#EXTINF:-1 tvg-name="TRT" tvg-logo="https://i.imgur.com/g0jPOcC.png" tvg-id="trttv.gr" tvg-chno="83" tvg-country="GR" group-title="Greece",TRT
+https://av.hellasnet.tv/rst/trt/index.m3u8
+
 #EXTINF:-1 tvg-name="TRT 1" tvg-logo="https://i.imgur.com/j786OLG.png" tvg-id="TRT1.tr" tvg-chno="1" tvg-country="TR" group-title="Turkey",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 tvg-name="TRT 2" tvg-logo="https://i.imgur.com/lNWrOE2.png" tvg-id="TRT2.tr" tvg-chno="2" tvg-country="TR" group-title="Turkey",TRT 2 Ⓖ
+https://tv-trt2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-name="TRT Arabi" tvg-logo="https://i.imgur.com/yyhWOZs.png" tvg-id="TRTArabi.tr" tvg-chno="11" tvg-country="TR" group-title="Turkey",TRT Arabi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
@@ -1102,6 +1117,9 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/63eb82e24
 
 #EXTINF:-1 tvg-name="ZEE News" tvg-logo="https://i.imgur.com/lmgtjqw.jpeg" tvg-id="zeenews.india.com" tvg-chno="30" tvg-country="IN" group-title="India",ZEE News Ⓨ
 https://www.youtube.com/@ZEENews/live
+
+#EXTINF:-1 tvg-name="Šport" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/rtvs-sport-sk.png" tvg-id="RTVSSport.sk" tvg-chno="16" tvg-country="SK" group-title="Slovakia",Šport
+https://sktv.mxnticek.eu/new/stream.php?ch=%C5%A0port
 
 #EXTINF:-1 tvg-name="Мир" tvg-logo="https://i.imgur.com/L2slsbG.png" tvg-id="Mir.ru" tvg-chno="19" tvg-country="RU" group-title="Russia",Мир
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
