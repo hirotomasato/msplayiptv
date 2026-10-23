@@ -1,14 +1,14 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-10-22 20:29:33 UTC
+# Generated: 2026-10-23 20:18:26 UTC
 # Total Channels: 11
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
 # ====== KIDS (11 channels) ======
 
-#EXTINF:-1 tvg-name="13 Kids" tvg-logo="https://i.imgur.com/m6y9AMe.png" tvg-id="13Kids.cl" tvg-chno="14" tvg-country="CL" group-title="Chile",13 Kids
+#EXTINF:-1 tvg-name="13 Kids" tvg-logo="https://i.imgur.com/m6y9AMe.png" tvg-id="13Kids.cl" tvg-chno="20" tvg-country="CL" group-title="Chile",13 Kids
 https://origin.dpsgo.com/ssai/event/LhHrVtyeQkKZ-Ye_xEU75g/master.m3u8
 
 #EXTINF:-1 tvg-name="ABC Kids" tvg-logo="https://i.imgur.com/GWDRR1t.png" tvg-id="ABCKids.au" tvg-chno="3" tvg-country="AU" group-title="Australia",ABC Kids
