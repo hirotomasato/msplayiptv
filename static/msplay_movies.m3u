@@ -1,7 +1,7 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-11-03 22:17:25 UTC
+# Generated: 2026-11-04 22:32:07 UTC
 # Total Channels: 18
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
@@ -25,9 +25,6 @@ https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Enter-Film" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Enter-FilmUA_%282013%29.png/960px-Enter-FilmUA_%282013%29.png" tvg-id="EnterFilm.ua" tvg-chno="24" tvg-country="UA" group-title="Ukraine",Enter-Film
 http://stream.mcquack.net/322/index.m3u8
-
-#EXTINF:-1 tvg-name="Film+" tvg-logo="https://www.tvmustra.hu/logok/csatikon/filmplussz.gif" tvg-id="Film+.hu" tvg-chno="30" tvg-country="HU" group-title="Hungary",Film+
-http://141.94.193.53:80/Film+_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="Film4" tvg-logo="https://www.tvmustra.hu/logok/csatikon/film4.gif" tvg-id="Film4.hu" tvg-chno="32" tvg-country="HU" group-title="Hungary",Film4 Ⓖ
 http://141.94.193.53:80/Film4_HD/index.m3u8
@@ -61,3 +58,6 @@ https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema
 
 #EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/500px-Paramount_Network.svg.png" tvg-id="ParamountNetwork.es" tvg-chno="20" tvg-country="ES" group-title="Spain",Paramount Network
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
+
+#EXTINF:-1 tvg-name="Rai Movie" tvg-logo="https://i.imgur.com/RKpO8CE.png" tvg-id="RaiMovie.it" tvg-chno="24" tvg-country="IT" group-title="Italy",Rai Movie Ⓖ
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
