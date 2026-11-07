@@ -1,15 +1,24 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-11-06 22:01:35 UTC
-# Total Channels: 3
+# Generated: 2026-11-07 20:47:18 UTC
+# Total Channels: 6
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== DOCUMENTARY (3 channels) ======
+# ====== DOCUMENTARY (6 channels) ======
 
 #EXTINF:-1 tvg-name="Discovery Channel" tvg-logo="https://i.imgur.com/5IxIFJ0.png" tvg-id="Discovery.Channel.it" tvg-chno="37" tvg-country="IT" group-title="Italy",Discovery Channel
 https://streaming.aurora.enhanced.live/live/mpc/enl0eG1mLmVncmVzcy5mZDJ2eHI=/out/v1/IT_SIMULCAST/DISCOVERYCHANNEL/CMAF/index.m3u8
+
+#EXTINF:-1 tvg-name="History (Poland) (576i)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-id="History.pl" tvg-chno="65" tvg-country="PL" group-title="Poland",History (Poland) (576i) Ⓢ
+http://92.114.85.87:8015/play/a00c/index.m3u8
+
+#EXTINF:-1 tvg-name="National Geographic (Poland) (576i)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-id="NationalGeographic.pl" tvg-chno="72" tvg-country="PL" group-title="Poland",National Geographic (Poland) (576i) Ⓢ
+http://92.114.85.87:8006/play/a00a/index.m3u8
+
+#EXTINF:-1 tvg-name="Polsat Viasat Nature" tvg-logo="https://i.imgur.com/TUcM0oS.png" tvg-id="PolsatViasatNature.pl" tvg-chno="105" tvg-country="PL" group-title="Poland",Polsat Viasat Nature Ⓢ
+http://92.114.85.87:8016/play/a004/index.m3u8
 
 #EXTINF:-1 tvg-name="Viasat History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Viasat_History_2026.svg?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="ViasatHistory.hu" tvg-chno="27" tvg-country="HU" group-title="Hungary",Viasat History
 http://141.94.193.53:80/Viasat_History_HD/index.m3u8

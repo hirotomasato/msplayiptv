@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-11-06 22:01:35 UTC
-# Total Channels: 82
+# Generated: 2026-11-07 20:47:18 UTC
+# Total Channels: 89
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MUSIC (82 channels) ======
+# ====== MUSIC (89 channels) ======
 
 #EXTINF:-1 tvg-name="90.9 Jazzy FM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/14/Jazzy.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" tvg-chno="107" tvg-country="HU" group-title="Hungary",90.9 Jazzy FM
 https://budapest-cache-1.antik.sk/live/jazzy/index.m3u8
@@ -43,6 +43,12 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.
 
 #EXTINF:-1 tvg-name="DELUXE MUSIC RAP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Deluxe_Rap_Logo_2023.svg/500px-Deluxe_Rap_Logo_2023.svg.png" tvg-id="DeLuxeMusicRap.de" tvg-chno="8" tvg-country="DE" group-title="Germany",DELUXE MUSIC RAP
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
+
+#EXTINF:-1 tvg-name="Disco Polo Music (1080p)" tvg-logo="https://i.imgur.com/ZZbuTv7.png" tvg-id="DiscoPoloMusic.pl" tvg-chno="34" tvg-country="PL" group-title="Poland",Disco Polo Music (1080p)
+http://185.227.34.179:8080/disco-polo-music/index.m3u8
+
+#EXTINF:-1 tvg-name="Eska Rock TV (1080p)" tvg-logo="https://i.imgur.com/o0Fg19Q.png" tvg-id="EskaRockTV.pl" tvg-chno="43" tvg-country="PL" group-title="Poland",Eska Rock TV (1080p)
+http://92.114.85.87:8016/play/a005/index.m3u8
 
 #EXTINF:-1 tvg-name="Giornale Radio Tv" tvg-logo="https://i.imgur.com/TMtvCLL.jpg" tvg-country="IT" group-title="Italy",Giornale Radio Tv
 https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
@@ -94,6 +100,9 @@ https://oxygenmusic.hu:2443/hls/oxygenmusic.m3u8
 
 #EXTINF:-1 tvg-name="Petőfi Rádió" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/0/0c/MR2-Pet%C5%91fi.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="PetofiRadio.hu" tvg-chno="102" tvg-country="HU" group-title="Hungary",Petőfi Rádió
 https://budapest-cache-1.antik.sk/live/petofi_radio/index.m3u8
+
+#EXTINF:-1 tvg-name="Polsat Music (1080p)" tvg-logo="https://i.imgur.com/uXygf1l.png" tvg-id="PolsatMusic.pl" tvg-chno="91" tvg-country="PL" group-title="Poland",Polsat Music (1080p)
+http://92.114.85.87:8001/play/a00z/index.m3u8
 
 #EXTINF:-1 tvg-name="Radio 105 TV" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" tvg-chno="66" tvg-country="IT" group-title="Italy",Radio 105 TV Ⓖ
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/index.m3u8
@@ -173,6 +182,9 @@ https://200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_22f84390fe141
 #EXTINF:-1 tvg-name="Radio Radiosa Tv" tvg-logo="https://i.imgur.com/8kqyxvz.png" tvg-country="IT" group-title="Italy",Radio Radiosa Tv
 https://stream7.zivoli.it/radiosatv/radiosatv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Radio RAM (1080p)" tvg-logo="https://i.ibb.co/LXbchP5q/logo-1.png" tvg-id="RadioRAM.pl" tvg-chno="110" tvg-country="PL" group-title="Poland",Radio RAM (1080p)
+https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Radio Ritmo 80 TV" tvg-logo="https://hostux.pics/images/2026/09/11/17_radio_ritmo_80_tv695eff878745049b.png" tvg-country="IT" group-title="Italy",Radio Ritmo 80 TV
 https://tvd-rit80.fluid.stream/Ritmo80TV/livestream/playlist.m3u8
 
@@ -199,6 +211,9 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/pl
 
 #EXTINF:-1 tvg-name="RadioItaliaTV" tvg-logo="https://i.imgur.com/4VCEJuJ.png" tvg-id="RadioItaliaTV.it" tvg-chno="70" tvg-country="IT" group-title="Italy",RadioItaliaTV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+
+#EXTINF:-1 tvg-name="Radiowa Czworka (1080p)" tvg-logo="https://i.imgur.com/VAtxF7k.png" tvg-id="RadiowaCzworka.pl" tvg-chno="111" tvg-country="PL" group-title="Poland",Radiowa Czworka (1080p)
+https://stream14.polskieradio.pl/pr4_video/video_pr4.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Rai Radio 2 Visual Radio" tvg-logo="https://i.imgur.com/nVBet0h.png" tvg-id="RaiRadio2Visual.it" tvg-chno="202" tvg-country="IT" group-title="Italy",Rai Radio 2 Visual Radio
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=rainet/4.0.5
@@ -245,6 +260,9 @@ http://194.163.157.137:8080/hls/radioalsace.m3u8
 #EXTINF:-1 tvg-name="TV Mulhouse" tvg-logo="https://i.imgur.com/4esQG8H.png" tvg-id="TVMulhouse.fr" tvg-chno="-" tvg-country="FR" group-title="France",TV Mulhouse
 http://194.163.157.137:8080/hls/radiomulhouse.m3u8
 
+#EXTINF:-1 tvg-name="TV Trwam (1080p) [Geo-blocked]" tvg-logo="https://i.imgur.com/yq10wS5.png" tvg-id="TVTrwam.pl" tvg-chno="151" tvg-country="PL" group-title="Poland",TV Trwam (1080p) [Geo-blocked]
+https://live-ch1.trwam.cf.insyscd.net/out/v1/b99041a282774d4a8fe84a54243af5de/trwamtv-live-ch1.mpd
+
 #EXTINF:-1 tvg-name="Tv Yes" tvg-logo="https://i.imgur.com/1wsO8U7.png" tvg-country="IT" group-title="Italy",Tv Yes
 https://stream1.aswifi.it/radioyes/live/index.m3u8
 
@@ -253,3 +271,6 @@ https://amg00056-amg00056c8-rakuten-it-3239.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Virgin Radio TV" tvg-logo="https://i.imgur.com/7Im3HI1.png" tvg-id="VirginRadioTV.it" tvg-chno="68" tvg-country="IT" group-title="Italy",Virgin Radio TV Ⓖ
 https://live02-seg.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="VOX Music TV (1080p)" tvg-logo="https://i.imgur.com/N993msF.png" tvg-id="VOXMusicTV.pl" tvg-chno="182" tvg-country="PL" group-title="Poland",VOX Music TV (1080p)
+http://92.114.85.87:8016/play/a00a/index.m3u8

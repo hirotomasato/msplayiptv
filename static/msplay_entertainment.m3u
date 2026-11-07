@@ -1,18 +1,21 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-11-06 22:01:35 UTC
-# Total Channels: 3
+# Generated: 2026-11-07 20:47:18 UTC
+# Total Channels: 4
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== ENTERTAINMENT (3 channels) ======
+# ====== ENTERTAINMENT (4 channels) ======
 
 #EXTINF:-1 tvg-name="FZTV-3 Lifestyle Channel 生活频道" tvg-logo="https://i.imgur.com/jt7CWDT.png" tvg-id="FZTV3.cn" tvg-chno="19" tvg-country="CN" group-title="China",FZTV-3 Lifestyle Channel 生活频道
 http://live.zohi.tv/video/s10001-fztv-3/index.m3u8
 
 #EXTINF:-1 tvg-name="México Travel TV" tvg-logo="https://graph.facebook.com/MexicoTravelChannelTV/picture?width=200&height=200" tvg-id="MexicoTravelTV.mx" tvg-chno="12" tvg-country="MX" group-title="Mexico",México Travel TV
 https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Travel Channel (Poland) (576i)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Travel_Channel_logo-cerulean_blue.png/960px-Travel_Channel_logo-cerulean_blue.png" tvg-id="TravelChannel.pl" tvg-chno="140" tvg-country="PL" group-title="Poland",Travel Channel (Poland) (576i) Ⓢ
+http://92.114.85.87:8011/play/a00d/index.m3u8
 
 #EXTINF:-1 tvg-name="Travel TV" tvg-logo="https://i.imgur.com/aXAUyLN.png" tvg-id="TravelTV.it" tvg-chno="61" tvg-country="IT" group-title="Italy",Travel TV
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8

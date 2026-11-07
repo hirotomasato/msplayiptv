@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-11-06 22:01:35 UTC
-# Total Channels: 17
+# Generated: 2026-11-07 20:47:18 UTC
+# Total Channels: 30
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MOVIES (17 channels) ======
+# ====== MOVIES (30 channels) ======
 
 #EXTINF:-1 tvg-name="13 Prime" tvg-logo="https://i.imgur.com/YwDFNxs.png" tvg-id="13P.cl" tvg-chno="19" tvg-country="CL" group-title="Chile",13 Prime
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
@@ -17,8 +17,17 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionholly
 #EXTINF:-1 tvg-name="Action24" tvg-logo="https://i.imgur.com/Zi1YohT.png" tvg-id="Action24TV.gr" tvg-chno="31" tvg-country="GR" group-title="Greece",Action24
 https://actionlive.siliconweb.com/actionabr/actiontv/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Bigtime" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/1fe37ff8-c6b7-4123-8c68-653d657b4c5f-width200-quality90.jpeg" tvg-id="Bigtime.pl" tvg-chno="15" tvg-country="PL" group-title="Poland",Bigtime Ⓢ
+https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Cinema" tvg-logo="" tvg-id="Cinema.mn" tvg-chno="38" tvg-country="MN" group-title="Mongolia",Cinema
 https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
+
+#EXTINF:-1 tvg-name="Disney Channel (Poland) HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-id="DisneyChannel.pl" tvg-chno="35" tvg-country="PL" group-title="Poland",Disney Channel (Poland) HD (1080p)
+http://185.227.34.179:8080/disney-channel-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="Disney XD (Poland) (576p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" tvg-id="DisneyXD.pl" tvg-chno="36" tvg-country="PL" group-title="Poland",Disney XD (Poland) (576p) Ⓢ
+http://185.227.34.179:8080/disney-xd/index.m3u8
 
 #EXTINF:-1 tvg-name="Drybar Comedy" tvg-logo="https://i.imgur.com/EldlmTp.png" tvg-id="DryBarComedy.us" tvg-chno="2" tvg-country="US" group-title="USA",Drybar Comedy
 https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
@@ -32,8 +41,29 @@ http://141.94.193.53:80/Film+_HD/index.m3u8
 #EXTINF:-1 tvg-name="Film4" tvg-logo="https://www.tvmustra.hu/logok/csatikon/film4.gif" tvg-id="Film4.hu" tvg-chno="32" tvg-country="HU" group-title="Hungary",Film4 Ⓖ
 http://141.94.193.53:80/Film4_HD/index.m3u8
 
+#EXTINF:-1 tvg-name="FILMBOX+ Action (720p)" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" tvg-id="FILMBOXPlusAction.pl" tvg-chno="53" tvg-country="PL" group-title="Poland",FILMBOX+ Action (720p)
+http://92.114.85.87:8008/play/a007/index.m3u8
+
+#EXTINF:-1 tvg-name="FILMBOX+ Comedy (720p)" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bcomedy.png" tvg-id="FILMBOXPlusComedy.pl" tvg-chno="54" tvg-country="PL" group-title="Poland",FILMBOX+ Comedy (720p)
+http://92.114.85.87:8008/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-name="FILMBOX+ Emotion (720p)" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bemotion.png" tvg-id="FILMBOXPlusEmotion.pl" tvg-chno="55" tvg-country="PL" group-title="Poland",FILMBOX+ Emotion (720p)
+http://92.114.85.87:8008/play/a008/index.m3u8
+
+#EXTINF:-1 tvg-name="FILMBOX+ Festival Poland" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bfestival.png" tvg-id="FILMBOXPlusFestival.pl" tvg-chno="56" tvg-country="PL" group-title="Poland",FILMBOX+ Festival Poland
+http://92.114.85.87:8018/play/a009/index.m3u8
+
+#EXTINF:-1 tvg-name="FILMBOX+ Hits (576i)" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bhits.png" tvg-id="FILMBOXPlusHits.pl" tvg-chno="57" tvg-country="PL" group-title="Poland",FILMBOX+ Hits (576i) Ⓢ
+http://92.114.85.87:8008/play/a00a/index.m3u8
+
 #EXTINF:-1 tvg-name="Great! Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Great%21_Movies_logo_2021.svg/500px-Great%21_Movies_logo_2021.svg.png" tvg-id="GreatMovies.uk" tvg-chno="34" tvg-country="GB" group-title="UK",Great! Movies Ⓢ
 https://amg01753-narrativeuk-amg01753c3-lg-gb-1833.playouts.now.amagi.tv/playlist/amg01753-narrativeuk-greatmovies-lggb/playlist.m3u8
+
+#EXTINF:-1 tvg-name="HBO 2 (Poland) (1080p)" tvg-logo="https://i.imgur.com/2e3muOJ.png" tvg-id="HBO2.pl" tvg-chno="63" tvg-country="PL" group-title="Poland",HBO 2 (Poland) (1080p)
+http://185.227.34.179:8080/hbo-2-hd/index.m3u8
+
+#EXTINF:-1 tvg-name="HBO 3 (Poland) (1080p)" tvg-logo="https://i.imgur.com/3QIHh2V.png" tvg-id="HBO3.pl" tvg-chno="64" tvg-country="PL" group-title="Poland",HBO 3 (Poland) (1080p)
+http://185.227.34.179:8080/hbo-3-hd/index.m3u8
 
 #EXTINF:-1 tvg-name="iFilm" tvg-logo="https://i.imgur.com/4Z9L1AW.png" tvg-id="iFilmPersian.ir" tvg-chno="18" tvg-country="IR" group-title="Iran",iFilm
 https://live.presstv.co.uk/hls/ifilmfa.m3u8
@@ -53,8 +83,17 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678
 #EXTINF:-1 tvg-name="MovieBox" tvg-logo="" tvg-id="MovieBox.mn" tvg-chno="16" tvg-country="MN" group-title="Mongolia",MovieBox
 https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
 
+#EXTINF:-1 tvg-name="Nova Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-action-cz.png" tvg-id="NovaAction.cz" tvg-chno="10" tvg-country="CZ" group-title="Czech Republic",Nova Action
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaAction
+
+#EXTINF:-1 tvg-name="Nova Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cinema-cz.png" tvg-id="NovaCinema.cz" tvg-chno="9" tvg-country="CZ" group-title="Czech Republic",Nova Cinema
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema
+
 #EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/500px-Paramount_Network.svg.png" tvg-id="ParamountNetwork.es" tvg-chno="20" tvg-country="ES" group-title="Spain",Paramount Network
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
 
 #EXTINF:-1 tvg-name="Rai Movie" tvg-logo="https://i.imgur.com/RKpO8CE.png" tvg-id="RaiMovie.it" tvg-chno="24" tvg-country="IT" group-title="Italy",Rai Movie Ⓖ
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=rainet/4.0.5
+
+#EXTINF:-1 tvg-name="Viasat Epic Drama Poland (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e1/Viasat_Epic_Drama_2026.svg" tvg-id="ViasatEpicDrama.uk" tvg-chno="175" tvg-country="PL" group-title="Poland",Viasat Epic Drama Poland (1080p)
+http://92.114.85.87:8001/play/a00x/index.m3u8
