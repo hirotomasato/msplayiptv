@@ -1,7 +1,7 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-11-10 00:39:39 UTC
+# Generated: 2026-11-10 22:15:48 UTC
 # Total Channels: 87
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
@@ -64,6 +64,9 @@ https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
 
 #EXTINF:-1 tvg-name="Kossuth Rádió" tvg-logo="https://upload.wikimedia.org/wikipedia/hu/6/69/Mr1.png?utm_source=hu.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="KossuthRadio.hu" tvg-chno="101" tvg-country="HU" group-title="Hungary",Kossuth Rádió
 https://budapest-cache-1.antik.sk/live/kossuth_radio/index.m3u8
+
+#EXTINF:-1 tvg-name="Latina TV" tvg-logo="https://intervenhosting.net/imagenes/latinatv.jpg" tvg-id="LatinaTV.ve" tvg-chno="10" tvg-country="VE" group-title="Venezuela",Latina TV
+https://streamtv.latinamedios.com:3413/live/latinatvlive.m3u8
 
 #EXTINF:-1 tvg-name="Mongolia Music" tvg-logo="" tvg-chno="40" tvg-country="MN" group-title="Mongolia",Mongolia Music
 https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8
@@ -175,9 +178,6 @@ https://200912.global.ssl.fastly.net/646b335e2291a2022444bb7c/live_22f84390fe141
 
 #EXTINF:-1 tvg-name="Radio Radiosa Tv" tvg-logo="https://i.imgur.com/8kqyxvz.png" tvg-country="IT" group-title="Italy",Radio Radiosa Tv
 https://stream7.zivoli.it/radiosatv/radiosatv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Radio RAM (1080p)" tvg-logo="https://i.ibb.co/LXbchP5q/logo-1.png" tvg-id="RadioRAM.pl" tvg-chno="110" tvg-country="PL" group-title="Poland",Radio RAM (1080p)
-https://1888165924.rsc.cdn77.org/live/RadioRAM/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Radio Ritmo 80 TV" tvg-logo="https://hostux.pics/images/2026/09/11/17_radio_ritmo_80_tv695eff878745049b.png" tvg-country="IT" group-title="Italy",Radio Ritmo 80 TV
 https://tvd-rit80.fluid.stream/Ritmo80TV/livestream/playlist.m3u8
