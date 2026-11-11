@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-11-10 22:15:48 UTC
-# Total Channels: 379
+# Generated: 2026-11-11 23:25:33 UTC
+# Total Channels: 376
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== NEWS (379 channels) ======
+# ====== NEWS (376 channels) ======
 
 #EXTINF:-1 tvg-name="#Riccanza – Pluto TV" tvg-logo="https://i.imgur.com/oBpcWEm.png" group-title="VOD Italy",#Riccanza – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/626baa721c279b00072cbedd/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -262,6 +262,9 @@ https://www.dailymotion.com/video/x3b68jn
 
 #EXTINF:-1 tvg-name="CNN Portugal" tvg-logo="https://i.imgur.com/NYH39xs.png" tvg-id="CNNPortugal.pt" tvg-chno="13" tvg-country="PT" group-title="Portugal",CNN Portugal
 https://github.com/LITUATUI/M3UPT/raw/main/M3U/CNN_Portugal.m3u8
+
+#EXTINF:-1 tvg-name="CNN Prima News" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/cnn-prima-news-cz.png" tvg-id="CNNPrimaNews.cz" tvg-chno="16" tvg-country="CZ" group-title="Czech Republic",CNN Prima News
+https://sktv.mxnticek.eu/new/stream.php?ch=PrimaNews
 
 #EXTINF:-1 tvg-name="Consulenze illegali – Pluto TV" tvg-logo="https://i.imgur.com/AoOiYJX.png" group-title="VOD Italy",Consulenze illegali – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60b9dc99521a1400079bdfba/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel
@@ -719,9 +722,6 @@ https://router.xdevel.com/video0s975360-67/stream/playlist_dvr.m3u8
 #EXTINF:-1 tvg-name="Radio m2o Tv" tvg-logo="https://i.imgur.com/wl30UFj.png" tvg-id="m2oTV.it" tvg-country="IT" group-title="Italy",Radio m2o Tv
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Radio Napoli Emme" tvg-logo="https://hostux.pics/images/2026/09/11/13_radio_napoli_emme7a755fab8578a752.png" tvg-country="IT" group-title="Italy",Radio Napoli Emme
-http://rtmp.streams.ovh:1935/radionapoliemme/radionapoliemme/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Rai News 24" tvg-logo="https://i.imgur.com/gdzGwB6.png" tvg-id="RaiNews24.it" tvg-chno="48" tvg-country="IT" group-title="Italy",Rai News 24
 https://d3k8wzt41aflvx.cloudfront.net/RAINEWS24/Live.m3u8
 
@@ -773,9 +773,6 @@ https://w1.mediastreaming.it/calabriachannel/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="RTE News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/78/Updated_RT%C3%89_News_and_Current_Affairs_Logo.png" tvg-id="RTENews.ie" tvg-chno="21" tvg-country="IE" group-title="Ireland",RTE News
 https://live.rte.ie/live/a/channel3/channel3.isml/channel3.m3u8
 
-#EXTINF:-1 tvg-name="RTHK TV 31" tvg-logo="https://i.imgur.com/kf818kM.png" tvg-id="RTHKTV31.hk" tvg-chno="31" tvg-country="HK" group-title="Hong Kong",RTHK TV 31
-https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
-
 #EXTINF:-1 tvg-name="RTK 3" tvg-logo="https://i.imgur.com/Ut9VcT3.png" tvg-id="RTK3.xk" tvg-chno="1" tvg-country="XK" group-title="Kosovo",RTK 3
 https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
 
@@ -820,9 +817,6 @@ https://streaming-live.rtp.pt/liverepeater/smil:rtpnHD.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Rtp Tv" tvg-logo="https://i.imgur.com/I1hYI0C.png" tvg-country="IT" group-title="Italy",Rtp Tv
 https://flash2.xdevel.com/rtptv/rtptv/playlist.m3u8
-
-#EXTINF:-1 tvg-name="RTP África" tvg-logo="https://i.imgur.com/ISFNy17.png" tvg-id="RTPAfrica.pt" tvg-chno="14" tvg-country="PT" group-title="Portugal",RTP África
-https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="RTP1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/RTP1_-_Logo_2016.svg/500px-RTP1_-_Logo_2016.svg.png" tvg-id="RTP1.pt" tvg-chno="1" tvg-country="PT" group-title="Portugal",RTP1
 https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
@@ -922,9 +916,6 @@ https://www.youtube.com/channel/UCoMdktPbSTixAyNGwb-UYkQ/live
 
 #EXTINF:-1 tvg-name="Sky News Arabia" tvg-logo="https://i.imgur.com/SvjU4h6.png" tvg-id="SkyNewsArabia.ae" tvg-chno="14" tvg-country="AE" group-title="United Arab Emirates",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna.m3u8
-
-#EXTINF:-1 tvg-name="Sky News Weather" tvg-logo="https://pbs.twimg.com/profile_images/1604994875459518464/lGt2wEqM_400x400.jpg" tvg-id="SkyNewsWeather.uk" tvg-chno="206" group-title="Weather",Sky News Weather Ⓖ
-https://distro001-gb-hls1-prd.delivery.skycdp.com/easel_cdn/ngrp:weather_loop.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-name="South Park – Pluto TV" tvg-logo="https://i.imgur.com/06wIdRV.png" group-title="VOD Italy",South Park – Pluto TV
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/62bc1f502b70e3000706298e/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&genre=ROKU_ADS_CONTENT_GENRE&content_rating=ROKU_ADS_CONTENT_RATING&studio_id=viacom&channel_id=channel

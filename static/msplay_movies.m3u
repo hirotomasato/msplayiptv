@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-11-10 22:15:48 UTC
-# Total Channels: 29
+# Generated: 2026-11-11 23:25:33 UTC
+# Total Channels: 32
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MOVIES (29 channels) ======
+# ====== MOVIES (32 channels) ======
 
 #EXTINF:-1 tvg-name="13 Prime" tvg-logo="https://i.imgur.com/YwDFNxs.png" tvg-id="13P.cl" tvg-chno="19" tvg-country="CL" group-title="Chile",13 Prime
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
@@ -22,6 +22,9 @@ https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-1 tvg-name="Cinema" tvg-logo="" tvg-id="Cinema.mn" tvg-chno="38" tvg-country="MN" group-title="Mongolia",Cinema
 https://cdn4.skygo.mn/live/disk1/CinemaTV/HLSv3-FTA/CinemaTV.m3u8
+
+#EXTINF:-1 tvg-name="CS Film" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/cs-film-sk.png" tvg-id="CSFilm.cz" tvg-chno="26" tvg-country="CZ" group-title="Czech Republic",CS Film
+https://sktv.mxnticek.eu/new/stream.php?ch=CS%20Film
 
 #EXTINF:-1 tvg-name="Disney Channel (Poland) HD (1080p)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-id="DisneyChannel.pl" tvg-chno="35" tvg-country="PL" group-title="Poland",Disney Channel (Poland) HD (1080p)
 http://185.227.34.179:8080/disney-channel-hd/index.m3u8
@@ -85,6 +88,12 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-drama/2c28a458e2f3253e678
 
 #EXTINF:-1 tvg-name="MovieBox" tvg-logo="" tvg-id="MovieBox.mn" tvg-chno="16" tvg-country="MN" group-title="Mongolia",MovieBox
 https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
+
+#EXTINF:-1 tvg-name="Nova Action" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-action-cz.png" tvg-id="NovaAction.cz" tvg-chno="10" tvg-country="CZ" group-title="Czech Republic",Nova Action
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaAction
+
+#EXTINF:-1 tvg-name="Nova Cinema" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/nova-cinema-cz.png" tvg-id="NovaCinema.cz" tvg-chno="9" tvg-country="CZ" group-title="Czech Republic",Nova Cinema
+https://sktv.mxnticek.eu/new/stream.php?ch=NovaCinema
 
 #EXTINF:-1 tvg-name="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/500px-Paramount_Network.svg.png" tvg-id="ParamountNetwork.es" tvg-chno="20" tvg-country="ES" group-title="Spain",Paramount Network
 https://jmp2.uk/plu-68d566603d3a9580eb461251.m3u8
