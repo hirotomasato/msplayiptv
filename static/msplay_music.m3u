@@ -1,7 +1,7 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-11-20 23:02:52 UTC
+# Generated: 2026-11-21 22:07:40 UTC
 # Total Channels: 87
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
@@ -56,6 +56,9 @@ https://5f204aff97bee.streamlock.net/GR_tv/livestream/playlist.m3u8
 #EXTINF:-1 tvg-name="Globo Tv" tvg-logo="https://i.imgur.com/lR08pb3.jpeg" tvg-country="IT" group-title="Italy",Globo Tv
 https://nrvideo1.newradio.it:1936/awrgaebshj/awrgaebshj/playlist.m3u8
 
+#EXTINF:-1 tvg-name="inter TV" tvg-logo="https://intervenhosting.net/imagenes/itv.jpg" tvg-id="interTV.ve" tvg-chno="11" tvg-country="VE" group-title="Venezuela",inter TV
+https://streamtv.intervenhosting.net:3439/hybrid/play.m3u8
+
 #EXTINF:-1 tvg-name="Jazz TV" tvg-logo="https://i.imgur.com/4U6Ju5G.png" tvg-id="JazzTV.mk" tvg-chno="4" tvg-country="MK" group-title="North Macedonia",Jazz TV
 https://stream.nasatv.com.mk/jazztv/hls/jazztv_live.m3u8
 
@@ -70,9 +73,6 @@ https://cdn4.skygo.mn/live/disk1/Khugjim/HLSv3-FTA/Khugjim.m3u8
 
 #EXTINF:-1 tvg-name="MTV Azerbaijan Ⓢ" tvg-logo="https://i.imgur.com/lSBMeBU.png" tvg-id="MTVAzerbaijan.az" tvg-country="AZ" group-title="Azerbaijan",MTV Azerbaijan Ⓢ Ⓨ
 https://www.youtube.com/@MTVAzerbaijan/live
-
-#EXTINF:-1 tvg-name="MTV Sub" tvg-logo="https://i.imgur.com/VRCuxQt.png" tvg-id="Sub.fi" tvg-chno="6" tvg-country="FI" group-title="Finland",MTV Sub
-https://live-fi.tvkaista.net/sub/live.m3u8?src=freetv
 
 #EXTINF:-1 tvg-name="MTV Uutiset Live" tvg-logo="https://i.imgur.com/IyB6mIb.png" tvg-id="MTVUutiset.fi" tvg-chno="99" tvg-country="FI" group-title="Finland",MTV Uutiset Live
 https://live.streaming.a2d.tv/content/channels/uutiset/cmaf.m3u8

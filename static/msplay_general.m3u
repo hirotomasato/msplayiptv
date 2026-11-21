@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-11-20 23:02:52 UTC
-# Total Channels: 931
+# Generated: 2026-11-21 22:07:40 UTC
+# Total Channels: 928
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== GENERAL (931 channels) ======
+# ====== GENERAL (928 channels) ======
 
 #EXTINF:-1 tvg-name="+Perfil" tvg-logo="https://i.imgur.com/3wZdPwN.png" tvg-id="MasPerfil.ar" tvg-chno="25.6" tvg-country="AR" group-title="Argentina",+Perfil
 https://unlimited1-us.dps.live/perfiltv/perfiltv.smil/perfiltv/livestream2/chunks.m3u8
@@ -155,9 +155,6 @@ https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 #EXTINF:-1 tvg-name="Al Jazeera العربية" tvg-logo="https://i.imgur.com/BB93NQP.png" tvg-id="AlJazeeraChannel.qa" tvg-chno="1" group-title="News (AR)",Al Jazeera العربية
 https://live-hls-web-aja.getaj.net/AJA/index.m3u8
 
-#EXTINF:-1 tvg-name="Al Manar" tvg-logo="" tvg-id="AlManar.lb" tvg-chno="3" group-title="Lebanon",Al Manar
-https://edge.fastpublish.me/live/index.m3u8
-
 #EXTINF:-1 tvg-name="Al Mayadeen" tvg-logo="" tvg-id="AlMayadeenTV.lb" tvg-chno="4" group-title="Lebanon",Al Mayadeen
 https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
 
@@ -208,9 +205,6 @@ https://5f204aff97bee.streamlock.net/AltoAdigeTV/livestream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Altyn Asyr" tvg-logo="" tvg-chno="1" tvg-country="TM" group-title="Turkmenistan",Altyn Asyr
 https://alpha.tv.online.tm/hls/ch001.m3u8
-
-#EXTINF:-1 tvg-name="AM Terni Television" tvg-logo="https://i.imgur.com/XLuIz5j.png" tvg-chno="84" tvg-country="IT" group-title="Italy",AM Terni Television
-https://stream9.xdevel.com/video0s976364-1176/stream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="AMC" tvg-logo="https://www.tvmustra.hu/logok/csatikon/amc.gif" tvg-id="AMC.hu" tvg-chno="34" tvg-country="HU" group-title="Hungary",AMC Ⓖ
 http://141.94.193.53:80/AMC_HD/index.m3u8
@@ -380,9 +374,6 @@ https://www.youtube.com/@Bulshotv/live
 #EXTINF:-1 tvg-name="Buzzfeed Unsolved" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e16cfcc7-2040-4bd5-8339-16d499f8799e-width200-quality90.png" tvg-id="BuzzfeedUnsolved.pl" tvg-chno="21" tvg-country="PL" group-title="Poland",Buzzfeed Unsolved
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099
 
-#EXTINF:-1 tvg-name="Buzzr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Buzzr_logo.svg/960px-Buzzr_logo.svg.png" tvg-id="Buzzr.us" tvg-chno="1" tvg-country="US" group-title="USA",Buzzr Ⓖ
-http://23.237.104.106:8080/USA_BUZZR/index.m3u8
-
 #EXTINF:-1 tvg-name="BX1" tvg-logo="https://i.imgur.com/YjKqWru.png" tvg-id="BX1.be" tvg-chno="13" tvg-country="BE" group-title="Belgium",BX1
 https://59959724487e3.streamlock.net/stream/live/playlist.m3u8
 
@@ -436,9 +427,6 @@ https://ch21napoli-cdn.encoders.immergo.tv/master.m3u8
 
 #EXTINF:-1 tvg-name="Canale 21 Extra" tvg-logo="https://i.imgur.com/cDAsrBl.png" tvg-id="Canale21Extra.it" tvg-country="IT" group-title="Italy",Canale 21 Extra
 https://ch21extra-cdn.encoders.immergo.tv/master.m3u8
-
-#EXTINF:-1 tvg-name="Canale 58" tvg-logo="https://i.imgur.com/RlFc74C.png" tvg-country="IT" group-title="Italy",Canale 58
-https://dotfvxkfj90ca.cloudfront.net/live/canale58_aac/master.m3u8
 
 #EXTINF:-1 tvg-name="Canale 7" tvg-logo="https://i.imgur.com/9cuOLCn.png" tvg-country="IT" group-title="Italy",Canale 7
 http://wms.shared.streamshow.it:80/canale7/canale7/playlist.m3u8
@@ -1028,9 +1016,6 @@ https://lo3.gemporia.com/abrjewellerymaker/smil:livestreamFullHD.smil/playlist.m
 #EXTINF:-1 tvg-name="JIBS TV" tvg-logo="https://i.imgur.com/RVWpBoz.png" tvg-id="JIBSTV.kr" tvg-chno="16" tvg-country="KR" group-title="Korea",JIBS TV
 http://123.140.197.22/stream/1/play.m3u8
 
-#EXTINF:-1 tvg-name="Jim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Jim_color_RGB.png" tvg-id="Jim.fi" tvg-chno="9" tvg-country="FI" group-title="Finland",Jim
-https://live-fi.tvkaista.net/jim/live.m3u8?src=freetv
-
 #EXTINF:-1 tvg-name="Jubbaland TV" tvg-logo="https://i.imgur.com/SEgEYjV.png" tvg-id="JubbalandTV.so" tvg-country="SO" group-title="Somalia",Jubbaland TV Ⓨ
 https://www.youtube.com/@JLTVOfficial1/live
 
@@ -1169,9 +1154,6 @@ https://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 tvg-name="Lira Tv" tvg-logo="https://i.imgur.com/S0ReVEo.png" tvg-country="IT" group-title="Italy",Lira Tv
 https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Liv" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/06/Liv_color_RGB.png" tvg-id="Liv.fi" tvg-chno="8" tvg-country="FI" group-title="Finland",Liv
-https://live-fi.tvkaista.net/liv/live.m3u8?src=freetv
-
 #EXTINF:-1 tvg-name="LN+" tvg-logo="https://i.imgur.com/vJYzGt1.png" tvg-id="LaNacionPlus.ar" tvg-chno="25.3" tvg-country="AR" group-title="Argentina",LN+ Ⓨ
 https://www.youtube.com/c/LaNacionMas/live
 
@@ -1219,6 +1201,9 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amls:CHANNEL_2/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Markíza" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/slovakia/markiza-sk.png" tvg-id="Markiza.sk" tvg-chno="1" tvg-country="SK" group-title="Slovakia",Markíza
 https://cdnsk003.panaccess.com/local/Markiza/index.m3u8
+
+#EXTINF:-1 tvg-name="Max4." tvg-logo="https://www.tvmustra.hu/logok/csatikon/max4.gif" tvg-chno="30" tvg-country="HU" group-title="Hungary",Max4.
+http://141.94.193.53:80/MAX4_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="MBC 1" tvg-logo="https://i.imgur.com/CiA3plN.png" tvg-id="MBC1.ae" tvg-chno="3" tvg-country="AE" group-title="United Arab Emirates",MBC 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1/15cf99af5de54063fdabfefe66adc075/index.m3u8
@@ -1565,6 +1550,9 @@ https://www.youtube.com/@PontosTV/live
 #EXTINF:-1 tvg-name="Praha TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/praha-tv-cz.png" tvg-id="PrahaTV.cz" tvg-chno="36" tvg-country="CZ" group-title="Czech Republic",Praha TV
 https://1977134029.rsc.cdn77.org/1977134029/index.m3u8
 
+#EXTINF:-1 tvg-name="Press TV French" tvg-logo="https://i.imgur.com/X3YP2Gg.png" tvg-id="PressTVFrench.ir" tvg-chno="14" tvg-country="IR" group-title="Iran",Press TV French
+https://live4.presstv.ir/live/smil:presstvfr.smil/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Prima Krimi" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/czech-republic/prima-krimi-cz.png" tvg-id="PrimaKrimi.cz" tvg-chno="20" tvg-country="CZ" group-title="Czech Republic",Prima Krimi
 https://sktv.mxnticek.eu/new/stream.php?ch=PrimaKrimi
 
@@ -1753,6 +1741,9 @@ https://ruvlive.akamaized.net/out/v1/2ff7673de40f419fa5164498fae89089/index.m3u8
 
 #EXTINF:-1 tvg-name="Saab TV" tvg-logo="https://i.imgur.com/JEC1J89.png" tvg-id="SaabTV.so" tvg-country="SO" group-title="Somalia",Saab TV Ⓢ
 https://cd198.anystream.uk:9092/iqapp/s03btv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Sahara 24 صحراء" tvg-logo="https://i.imgur.com/nOkf1fU.png" tvg-id="Sahara-24.mr" tvg-chno="9" group-title="News (AR)",Sahara 24 صحراء
+https://live.saharamedias.net:3317/live/shara24live.m3u8
 
 #EXTINF:-1 tvg-name="Samiaki TV" tvg-logo="https://i.imgur.com/aV5QoNG.png" tvg-id="CenterTV.gr" tvg-chno="121" tvg-country="GR" group-title="Greece",Samiaki TV
 http://live.cast-control.eu:1935/samiaki/samiaki/playlist.m3u8
@@ -1979,11 +1970,11 @@ https://g2qd3exzy7an-hls-live.mariatvcdn.it/livetelebelluno/be0e3154b820953ce1a9
 #EXTINF:-1 tvg-name="Tele Boario" tvg-logo="https://i.imgur.com/LlLD3L6.png" tvg-country="IT" group-title="Italy",Tele Boario
 https://stream7.xdevel.com/video0s976425-1244/stream/playlist_dvr.m3u8
 
+#EXTINF:-1 tvg-name="Tele Bruzzano" tvg-logo="https://i.imgur.com/7TWbCDt.jpg" tvg-country="IT" group-title="Italy",Tele Bruzzano
+https://playerssl.telemia.tv/fileadmin/hls/Telebruzzano/telebruzzano_mediachunks.m3u8
+
 #EXTINF:-1 tvg-name="Tele Chiara" tvg-logo="https://i.imgur.com/Q5XpnXR.png" tvg-country="IT" group-title="Italy",Tele Chiara
 http://fms.tvavicenza.it:1935/telechiara/diretta/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Tele Club Italia" tvg-logo="https://i.imgur.com/WxkOgg0.png" tvg-country="IT" group-title="Italy",Tele Club Italia
-https://www.theclubfactory.com/streaming/index.m3u8
 
 #EXTINF:-1 tvg-name="Tele Cupole" tvg-logo="https://i.imgur.com/ZmUI9zb.png" tvg-country="IT" group-title="Italy",Tele Cupole
 https://load-balancer.azotosolutions.com/cdnedge40/telecupole/playlist.m3u8
@@ -2075,8 +2066,14 @@ https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
 #EXTINF:-1 tvg-name="Telegenova" tvg-logo="https://i.imgur.com/D6HC0So.png" tvg-country="IT" group-title="Italy",Telegenova
 https://64b16f23efbee.streamlock.net/telegenova/telegenova/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Teleiblea" tvg-logo="https://i.imgur.com/n1THygZ.png" tvg-country="IT" group-title="Italy",Teleiblea
+https://64b16f23efbee.streamlock.net/teleiblea/teleiblea/playlist.m3u8
+
 #EXTINF:-1 tvg-name="Telekanal RAI" tvg-logo="https://i.imgur.com/Ouv51WB.png" tvg-id="TelekanalRAI.ua" tvg-chno="6" tvg-country="UA" group-title="Ukraine",Telekanal RAI
 https://stream.rai.ua/rai/stream.m3u8
+
+#EXTINF:-1 tvg-name="Teleleonessa" tvg-logo="https://i.imgur.com/jq3etlV.png" tvg-country="IT" group-title="Italy",Teleleonessa
+http://wms.shared.streamshow.it:1935/teleleonessa/teleleonessa/live.m3u8
 
 #EXTINF:-1 tvg-name="TeleMajg" tvg-logo="https://i.imgur.com/9tefonp.jpg" tvg-country="IT" group-title="Italy",TeleMajg
 https://59d7d6f47d7fc.streamlock.net/telemajg/telemajg/playlist.m3u8
@@ -2347,9 +2344,6 @@ http://141.94.193.53:80/TV4_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="TV5" tvg-logo="" tvg-id="TV5.mn" tvg-chno="7" tvg-country="MN" group-title="Mongolia",TV5
 https://cdn4.skygo.mn/live/disk1/TV5HD/HLSv3-FTA/TV5HD.m3u8
-
-#EXTINF:-1 tvg-name="TV5 Finland" tvg-logo="https://i.imgur.com/MoukyGs.png" tvg-id="TV5.fi" tvg-chno="7" tvg-country="FI" group-title="Finland",TV5 Finland
-https://live-fi.tvkaista.net/tv5/live.m3u8?src=freetv
 
 #EXTINF:-1 tvg-name="TV7 Békéscsaba" tvg-logo="https://i.imgur.com/G9Ib5K3.png" tvg-chno="49" tvg-country="HU" group-title="Hungary",TV7 Békéscsaba
 https://stream.y5.hu/stream/stream_bekescsaba/stream.m3u8
@@ -2654,17 +2648,11 @@ https://live.mediacdn.ru/sr1/arhis24/playlist_hdhigh.m3u8
 #EXTINF:-1 tvg-name="Астрахан 24" tvg-logo="https://i.imgur.com/9WcnjQN.png" tvg-id="Astrakhan24.ru" tvg-country="RU" group-title="Russia",Астрахан 24
 https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Беларусь 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Belarus_1_logo.svg/960px-Belarus_1_logo.svg.png" tvg-id="Belarus1.by" tvg-chno="1" tvg-country="BY" group-title="Belarus",Беларусь 1
-https://edge55.dc.beltelecom.by/ngtrk/smil:belarus1.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Беларусь 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Belarus_2_logo.svg/960px-Belarus_2_logo.svg.png" tvg-id="Belarus2.by" tvg-country="BY" group-title="Belarus",Беларусь 2
 https://edge55.dc.beltelecom.by/ngtrk/smil:belarus2.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Belarus_24_logo.svg/960px-Belarus_24_logo.svg.png" tvg-id="Belarus24.by" tvg-country="BY" group-title="Belarus",Беларусь 24
 https://edge55.dc.beltelecom.by/ngtrk/smil:belarus24.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-name="Беларусь 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Belarus_3_logo.svg/960px-Belarus_3_logo.svg.png" tvg-id="Belarus3.by" tvg-country="BY" group-title="Belarus",Беларусь 3
-https://edge55.dc.beltelecom.by/ngtrk/smil:belarus3.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Беларусь 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Belarus_5_logo.svg/960px-Belarus_5_logo.svg.png" tvg-id="Belarus5.by" tvg-country="BY" group-title="Belarus",Беларусь 5
 https://edge55.dc.beltelecom.by/ngtrk/smil:belarus5.smil/playlist.m3u8
@@ -2785,6 +2773,9 @@ http://fta.hugo.mk:1935/live/tvhugo/stream/2.m3u8
 
 #EXTINF:-1 tvg-name="Че" tvg-logo="" tvg-id="PeretzInternational.ru" tvg-chno="27" tvg-country="RU" group-title="Russia",Че
 https://cdn4.skygo.mn/live/disk1/Che/HLSv3-FTA/Che.m3u8
+
+#EXTINF:-1 tvg-name="כאן 11" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/500px-Kan11Logo.svg.png" tvg-id="Kan11.il" tvg-chno="11" tvg-country="IL" group-title="Israel",כאן 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ערוץ 13" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/1/17/Reshet13Logo2022.svg/500px-Reshet13Logo2022.svg.png" tvg-id="Channel13.il" tvg-chno="13" tvg-country="IL" group-title="Israel",ערוץ 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
