@@ -1,12 +1,12 @@
 #EXTM3U
 
 # MSPlay IPTV Playlist
-# Generated: 2026-11-26 00:55:25 UTC
-# Total Channels: 28
+# Generated: 2026-11-27 01:00:37 UTC
+# Total Channels: 29
 # Categories: 1
 # Source: https://github.com/januaropik3/msplayiptv
 
-# ====== MOVIES (28 channels) ======
+# ====== MOVIES (29 channels) ======
 
 #EXTINF:-1 tvg-name="13 Prime" tvg-logo="https://i.imgur.com/YwDFNxs.png" tvg-id="13P.cl" tvg-chno="19" tvg-country="CL" group-title="Chile",13 Prime
 https://origin.dpsgo.com/ssai/event/p4mmBxEzSmKAxY1GusOHrw/master.m3u8
@@ -34,6 +34,9 @@ https://drybar-drybarcomedy-1-us.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Film+" tvg-logo="https://www.tvmustra.hu/logok/csatikon/filmplussz.gif" tvg-id="Film+.hu" tvg-chno="30" tvg-country="HU" group-title="Hungary",Film+
 http://141.94.193.53:80/Film+_HD/index.m3u8
+
+#EXTINF:-1 tvg-name="Film4" tvg-logo="https://www.tvmustra.hu/logok/csatikon/film4.gif" tvg-id="Film4.hu" tvg-chno="32" tvg-country="HU" group-title="Hungary",Film4 Ⓖ
+http://141.94.193.53:80/Film4_HD/index.m3u8
 
 #EXTINF:-1 tvg-name="FILMBOX+ Action (720p)" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Baction.png" tvg-id="FILMBOXPlusAction.pl" tvg-chno="53" tvg-country="PL" group-title="Poland",FILMBOX+ Action (720p)
 http://92.114.85.87:8008/play/a007/index.m3u8
